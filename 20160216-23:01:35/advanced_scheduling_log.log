@@ -1,0 +1,1116 @@
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455687640 ********* 
+ Unassigned executors size: 70
+Unassigned executors size: 70
+executorDetails.toString(): [125, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [123, 124]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [81, 82]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [121, 122]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [139, 140]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [83, 84]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [85, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455687640
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology2-2-1455687648 ********* 
+ Unassigned executors size: 70
+Unassigned executors size: 70
+executorDetails.toString(): [125, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [123, 124]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [81, 82]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [121, 122]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [139, 140]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [83, 84]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [85, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology2-2-1455687648
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology3-3-1455687655 ********* 
+ Unassigned executors size: 80
+Unassigned executors size: 80
+executorDetails.toString(): [125, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [147, 148]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [145, 146]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [155, 156]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [149, 150]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [159, 160]
+executorDetails.toString(): [123, 124]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [143, 144]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [141, 142]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [81, 82]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [157, 158]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [121, 122]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [139, 140]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [83, 84]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [151, 152]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [85, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [153, 154]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology3-3-1455687655
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology4-4-1455687663 ********* 
+ Unassigned executors size: 80
+Unassigned executors size: 80
+executorDetails.toString(): [125, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [147, 148]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [145, 146]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [155, 156]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [149, 150]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [159, 160]
+executorDetails.toString(): [123, 124]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [143, 144]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [141, 142]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [81, 82]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [157, 158]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [121, 122]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [139, 140]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [83, 84]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [151, 152]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [85, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [153, 154]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology4-4-1455687663
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+Triggering rebalance for target: production-topology1-1-1455687640, victim: production-topology2-2-1455687648
+New parallelism hint for target: 11
+New parallelism hint for victim: 10
+End of rebalanceTwoTopologies
+
+ targetComponent  :spout_head
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+Triggering rebalance for target: production-topology3-3-1455687655, victim: production-topology4-4-1455687663
+New parallelism hint for target: 11
+New parallelism hint for victim: 10
+End of rebalanceTwoTopologies
+
+ targetComponent  :spout_head
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology2-2-1455687648 ********* 
+ Unassigned executors size: 69
+Unassigned executors size: 69
+executorDetails.toString(): [124, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [81, 82]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [139, 140]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [83, 84]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [121, 123]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [85, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology2-2-1455687648
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455687640 ********* 
+ Unassigned executors size: 71
+Unassigned executors size: 71
+executorDetails.toString(): [125, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [123, 124]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [81, 82]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [121, 122]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [83, 84]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [140, 140]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [139, 139]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [85, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455687640
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology4-4-1455687663 ********* 
+ Unassigned executors size: 79
+Unassigned executors size: 79
+executorDetails.toString(): [125, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [147, 148]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [145, 146]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [155, 156]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [149, 150]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [159, 160]
+executorDetails.toString(): [123, 124]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [143, 144]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [141, 142]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [157, 158]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [81, 83]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [121, 122]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [139, 140]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [151, 152]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [84, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [153, 154]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology4-4-1455687663
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology3-3-1455687655 ********* 
+ Unassigned executors size: 81
+Unassigned executors size: 81
+executorDetails.toString(): [125, 126]
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [97, 98]
+executorDetails.toString(): [147, 148]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [87, 88]
+executorDetails.toString(): [67, 68]
+executorDetails.toString(): [145, 146]
+executorDetails.toString(): [77, 78]
+executorDetails.toString(): [79, 80]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [135, 136]
+executorDetails.toString(): [117, 118]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [105, 106]
+executorDetails.toString(): [127, 128]
+executorDetails.toString(): [155, 156]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [149, 150]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [65, 66]
+executorDetails.toString(): [123, 124]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [159, 159]
+executorDetails.toString(): [133, 134]
+executorDetails.toString(): [99, 100]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [89, 90]
+executorDetails.toString(): [143, 144]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [141, 142]
+executorDetails.toString(): [107, 108]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [81, 82]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [157, 158]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [115, 116]
+executorDetails.toString(): [101, 102]
+executorDetails.toString(): [73, 74]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [131, 132]
+executorDetails.toString(): [121, 122]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [63, 64]
+executorDetails.toString(): [139, 140]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [113, 114]
+executorDetails.toString(): [71, 72]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [83, 84]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [151, 152]
+executorDetails.toString(): [160, 160]
+executorDetails.toString(): [91, 92]
+executorDetails.toString(): [129, 130]
+executorDetails.toString(): [95, 96]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [69, 70]
+executorDetails.toString(): [119, 120]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [75, 76]
+executorDetails.toString(): [109, 110]
+executorDetails.toString(): [85, 86]
+executorDetails.toString(): [111, 112]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [93, 94]
+executorDetails.toString(): [137, 138]
+executorDetails.toString(): [153, 154]
+executorDetails.toString(): [103, 104]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology3-3-1455687655
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
