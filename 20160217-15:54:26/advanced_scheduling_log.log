@@ -1,0 +1,823 @@
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 34
+Unassigned executors size: 34
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [62, 62]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [61, 61]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology2-2-1455748421 ********* 
+ Unassigned executors size: 34
+Unassigned executors size: 34
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [62, 62]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [61, 61]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology2-2-1455748421
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology3-3-1455748428 ********* 
+ Unassigned executors size: 34
+Unassigned executors size: 34
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [62, 62]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [61, 61]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology3-3-1455748428
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology4-4-1455748435 ********* 
+ Unassigned executors size: 34
+Unassigned executors size: 34
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [62, 62]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [61, 61]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology4-4-1455748435
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+Triggering rebalance for target: production-topology3-3-1455748428, victim: production-topology2-2-1455748421
+New parallelism hint for target: 5
+New parallelism hint for victim: 4
+End of rebalanceTwoTopologies
+
+ targetComponent  :spout_head
+In logUnassignedExecutors
+ Outside the loop: 
+Triggering rebalance for target: production-topology4-4-1455748435, victim: production-topology1-1-1455748414
+New parallelism hint for target: 5
+New parallelism hint for victim: 4
+End of rebalanceTwoTopologies
+
+ targetComponent  :spout_head
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology2-2-1455748421 ********* 
+ Unassigned executors size: 33
+Unassigned executors size: 33
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology2-2-1455748421
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology3-3-1455748428 ********* 
+ Unassigned executors size: 34
+Unassigned executors size: 34
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [62, 62]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [61, 61]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology3-3-1455748428
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology4-4-1455748435 ********* 
+ Unassigned executors size: 34
+Unassigned executors size: 34
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [62, 62]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [61, 61]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology4-4-1455748435
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 33
+Unassigned executors size: 33
+executorDetails.toString(): [9, 10]
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [19, 20]
+executorDetails.toString(): [43, 44]
+executorDetails.toString(): [33, 34]
+executorDetails.toString(): [39, 40]
+executorDetails.toString(): [13, 14]
+executorDetails.toString(): [61, 62]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [49, 50]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [23, 24]
+executorDetails.toString(): [53, 54]
+executorDetails.toString(): [1, 2]
+executorDetails.toString(): [27, 28]
+executorDetails.toString(): [57, 58]
+executorDetails.toString(): [21, 22]
+executorDetails.toString(): [31, 32]
+executorDetails.toString(): [7, 8]
+executorDetails.toString(): [41, 42]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [11, 12]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [47, 48]
+executorDetails.toString(): [3, 4]
+executorDetails.toString(): [59, 60]
+executorDetails.toString(): [17, 18]
+executorDetails.toString(): [37, 38]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [29, 30]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+executorDetails.toString(): [51, 52]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology2-2-1455748421 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology2-2-1455748421
+Only the victim topology needs to be rescheduled. Woot, we made it to stage II
+************** Victim Topology **************
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology2-2-1455748421 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology2-2-1455748421
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+Only the victim topology needs to be rescheduled. Woot, we made it to stage II
+************** Victim Topology **************
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology1-1-1455748414 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [64, 64]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology1-1-1455748414
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors
+ Outside the loop: 
+In logUnassignedExecutors 
+ ******** Topology Assignment production-topology3-3-1455748428 ********* 
+ Unassigned executors size: 7
+Unassigned executors size: 7
+executorDetails.toString(): [63, 63]
+executorDetails.toString(): [15, 16]
+executorDetails.toString(): [5, 6]
+executorDetails.toString(): [35, 36]
+executorDetails.toString(): [45, 46]
+executorDetails.toString(): [55, 56]
+executorDetails.toString(): [25, 26]
+ 
+ end of logUnassignedExecutors 
+ 
+Before calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+After calling EvenScheduler: 
+Size of cluster.needsSchedulingTopologies(topologies): 1
+Id of topology: production-topology3-3-1455748428
+Only the target topology needs to be rescheduled. That's more normal :D 
+************** Target Topology **************
+
+****** Current Executors ******
