@@ -29,7 +29,7 @@ echo "starting storm topology...";
 #/
 cd /var/nimbus/storm
 sudo bin/storm jar examples/storm-starter/storm-starter-0*.jar storm.starter.PageLoadTopology production-topology1 remote  && sudo bin/storm jar examples/storm-starter/storm-starter-0*.jar storm.starter.PageLoadTopology_LessSLO production-topology2 remote && sudo bin/storm jar examples/storm-starter/storm-starter-0*.jar storm.starter.ProcessingTopology production-topology3 remote && sudo bin/storm jar examples/storm-starter/storm-starter-0*.jar storm.starter.ProcessingTopology_LessSLO production-topology4 remotear/storm/storm_0/bin/storm kill test1
-sleep 1200
+sleep 10800
 sudo bin/storm kill production-topology1
 sudo bin/storm kill production-topology2
 sudo bin/storm kill production-topology3
