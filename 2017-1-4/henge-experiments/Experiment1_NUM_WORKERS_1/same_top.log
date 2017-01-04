@@ -1,0 +1,1165 @@
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+In the function: getUserSpecifiedSLOFromConfig
+Topology name: production-topology1-1-1478816074
+Topology SLO: null
+In the function: getUserSpecifiedLatencySLOFromConfig
+Topology name: production-topology1-1-1478816074
+Topology Latency SLO: 30.0
+In the function:  getUserSLOSensitivityFromConfig
+Topology name: production-topology1-1-1478816074
+Topology Sensitivity: latency
+In the function:  getNumWorkersFromConfig
+Topology name: production-topology1-1-1478816074
+Topology workers: 1
+No latency data for topology: production-topology1-1-1478816074 
+Let's get some latency data 
+production-topology1-1-1478816074,0.0,0.0,0.0,0,0,1478816074636
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478816074 
+Let's get some latency data 
+production-topology1-1-1478816074,0.0,0.0,0.0,0,0,1478816081073
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 853.725. 
+Topology: production-topology1-1-1478816074 average latency: 853.725 tail latency: 898.85. 
+production-topology1-1-1478816074,1.0726196773592016,0.3575398924530672,853.725,900,480,1478816091750
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 2842.4075. 
+Topology: production-topology1-1-1478816074 average latency: 2842.4075 tail latency: 2886.3. 
+production-topology1-1-1478816074,0.5965894801051052,0.4173022893660767,2842.4075,960,460,1478816102300
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 4648.194999999999. 
+Topology: production-topology1-1-1478816074 average latency: 4648.194999999999 tail latency: 4951.05. 
+production-topology1-1-1478816074,1.0048238202266035,0.5348065955381821,4648.194999999999,1120,600,1478816112812
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 8196.259999999998. 
+Topology: production-topology1-1-1478816074 average latency: 8196.259999999998 tail latency: 8264.75. 
+production-topology1-1-1478816074,0.7709693209698181,0.5741670497767881,8196.259999999998,980,460,1478816123350
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 9805.249999999998. 
+Topology: production-topology1-1-1478816074 average latency: 9805.249999999998 tail latency: 9869.3. 
+production-topology1-1-1478816074,0.6513567597854799,0.5851941512066012,9805.249999999998,1180,600,1478816133932
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 11923.225. 
+Topology: production-topology1-1-1478816074 average latency: 11923.225 tail latency: 12055.95. 
+production-topology1-1-1478816074,0.9593754236238359,0.6319668102587556,11923.225,920,420,1478816144433
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 15889.555000000002. 
+Topology: production-topology1-1-1478816074 average latency: 15889.555000000002 tail latency: 16035.0. 
+production-topology1-1-1478816074,0.8636416560447102,0.6577084597905283,15889.555000000002,960,460,1478816154938
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 17444.7275. 
+Topology: production-topology1-1-1478816074 average latency: 17444.7275 tail latency: 17578.95. 
+production-topology1-1-1478816074,0.5043341478296791,0.6423710285944434,17444.7275,1140,560,1478816165435
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 19135.68. 
+Topology: production-topology1-1-1478816074 average latency: 19135.68 tail latency: 19245.899999999994. 
+production-topology1-1-1478816074,1.1596638655462186,0.6893976501355139,19135.68,900,480,1478816175892
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 21276.5225. 
+Topology: production-topology1-1-1478816074 average latency: 21276.5225 tail latency: 21388.35. 
+production-topology1-1-1478816074,0.7098304300830439,0.6911003817978081,21276.5225,1240,580,1478816186369
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 25374.559999999998. 
+Topology: production-topology1-1-1478816074 average latency: 25374.559999999998 tail latency: 25448.0. 
+production-topology1-1-1478816074,0.9384671335890847,0.7101285934740601,25374.559999999998,840,460,1478816196828
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 25116.5525. 
+Topology: production-topology1-1-1478816074 average latency: 25116.5525 tail latency: 25939.500000000004. 
+production-topology1-1-1478816074,0.6670008149262929,0.7070480378635053,25116.5525,1340,640,1478816207264
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 29114.55. 
+Topology: production-topology1-1-1478816074 average latency: 29114.55 tail latency: 29313.7. 
+production-topology1-1-1478816074,1.0678851531064584,0.7311038455463688,29114.55,900,480,1478816217705
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 30878.847499999996. 
+Topology: production-topology1-1-1478816074 average latency: 30878.847499999996 tail latency: 30953.2. 
+production-topology1-1-1478816074,0.7820934080198394,0.7342906932009607,30878.847499999996,840,480,1478816228143
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 33013.24. 
+Topology: production-topology1-1-1478816074 average latency: 33013.24 tail latency: 33090.7. 
+production-topology1-1-1478816074,0.930915710754145,0.7458568707040892,33013.24,1200,600,1478816238569
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 33767.032499999994. 
+Topology: production-topology1-1-1478816074 average latency: 33767.032499999994 tail latency: 34421.85. 
+production-topology1-1-1478816074,0.6205481230570836,0.738895273612589,33767.032499999994,960,440,1478816249021
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 37760.61. 
+Topology: production-topology1-1-1478816074 average latency: 37760.61 tail latency: 37884.74999999999. 
+production-topology1-1-1478816074,0.7313085359732588,0.7384959716315717,37760.61,1180,600,1478816259498
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 37378.08499999999. 
+Topology: production-topology1-1-1478816074 average latency: 37378.08499999999 tail latency: 38039.4. 
+production-topology1-1-1478816074,0.9567683358761988,0.7494095898438029,37378.08499999999,960,440,1478816269939
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 44754.119999999995. 
+Topology: production-topology1-1-1478816074 average latency: 44754.119999999995 tail latency: 45180.2. 
+production-topology1-1-1478816074,0.6743168647930552,0.7458337457937674,44754.119999999995,1240,640,1478816280340
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 44470.46000000001. 
+Topology: production-topology1-1-1478816074 average latency: 44470.46000000001 tail latency: 45418.3. 
+production-topology1-1-1478816074,0.9736277269528502,0.7561880176646347,44470.46000000001,840,420,1478816290786
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 47422.259999999995. 
+Topology: production-topology1-1-1478816074 average latency: 47422.259999999995 tail latency: 47544.5. 
+production-topology1-1-1478816074,0.5959258133171177,0.7492200957364817,47422.259999999995,960,400,1478816301258
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 49702.070000000014. 
+Topology: production-topology1-1-1478816074 average latency: 49702.070000000014 tail latency: 50553.55. 
+production-topology1-1-1478816074,1.0203949912653856,0.7605190497168527,49702.070000000014,1180,640,1478816311655
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 51358.08750000001. 
+Topology: production-topology1-1-1478816074 average latency: 51358.08750000001 tail latency: 51582.4. 
+production-topology1-1-1478816074,0.5083154877037855,0.75043090723633,51358.08750000001,940,400,1478816322079
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 57160.6625. 
+Topology: production-topology1-1-1478816074 average latency: 57160.6625 tail latency: 58983.2. 
+production-topology1-1-1478816074,1.12778115320245,0.7649443782350269,57160.6625,1160,620,1478816332478
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 57998.3125. 
+Topology: production-topology1-1-1478816074 average latency: 57998.3125 tail latency: 58147.8. 
+production-topology1-1-1478816074,0.726594896806043,0.7635240270709903,57998.3125,920,440,1478816342884
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 57596.99750000001. 
+Topology: production-topology1-1-1478816074 average latency: 57596.99750000001 tail latency: 57808.9. 
+production-topology1-1-1478816074,0.5669399791948811,0.7565031682182722,57596.99750000001,1260,580,1478816353313
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 60198.99749999998. 
+Topology: production-topology1-1-1478816074 average latency: 60198.99749999998 tail latency: 61023.2. 
+production-topology1-1-1478816074,0.9940987410830798,0.7646961190067137,60198.99749999998,860,420,1478816363710
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 63504.1475. 
+Topology: production-topology1-1-1478816074 average latency: 63504.1475 tail latency: 66244.7. 
+production-topology1-1-1478816074,0.8120720886678334,0.7662753179954177,63504.1475,980,460,1478816374096
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 69823.16500000001. 
+Topology: production-topology1-1-1478816074 average latency: 69823.16500000001 tail latency: 70259.6. 
+production-topology1-1-1478816074,0.697688018495852,0.7895315852786129,69823.16500000001,1140,580,1478816384501
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 69494.49500000001. 
+Topology: production-topology1-1-1478816074 average latency: 69494.49500000001 tail latency: 69594.9. 
+production-topology1-1-1478816074,0.8376804557050093,0.8174542671354464,69494.49500000001,840,460,1478816394936
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 71239.08249999999. 
+Topology: production-topology1-1-1478816074 average latency: 71239.08249999999 tail latency: 71276.05. 
+production-topology1-1-1478816074,0.8653797436287175,0.8105462693444304,71239.08249999999,1240,600,1478816405398
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 74050.845. 
+Topology: production-topology1-1-1478816074 average latency: 74050.845 tail latency: 74879.35. 
+production-topology1-1-1478816074,0.7774756039033753,0.8165758068043728,74050.845,960,460,1478816415780
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 78943.39499999999. 
+Topology: production-topology1-1-1478816074 average latency: 78943.39499999999 tail latency: 79373.95. 
+production-topology1-1-1478816074,0.6891496374423204,0.8060533340448968,78943.39499999999,880,440,1478816426240
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 75122.305. 
+Topology: production-topology1-1-1478816074 average latency: 75122.305 tail latency: 75395.6. 
+production-topology1-1-1478816074,0.8462147056071189,0.8085615135328068,75122.305,1240,620,1478816436656
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 83984.4125. 
+Topology: production-topology1-1-1478816074 average latency: 83984.4125 tail latency: 85180.85. 
+production-topology1-1-1478816074,0.6081839752861763,0.8071224207161634,83984.4125,940,440,1478816447069
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 88605.4075. 
+Topology: production-topology1-1-1478816074 average latency: 88605.4075 tail latency: 89220.8. 
+production-topology1-1-1478816074,0.8821621621621624,0.8045486453341076,88605.4075,1240,640,1478816457475
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 85393.93749999997. 
+Topology: production-topology1-1-1478816074 average latency: 85393.93749999997 tail latency: 85458.05. 
+production-topology1-1-1478816074,0.680965909090909,0.798459453768981,85393.93749999997,880,400,1478816467880
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 81802.79. 
+Topology: production-topology1-1-1478816074 average latency: 81802.79 tail latency: 82567.35. 
+production-topology1-1-1478816074,0.6882711082942272,0.804590685784466,81802.79,940,460,1478816478335
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 94275.19499999999. 
+Topology: production-topology1-1-1478816074 average latency: 94275.19499999999 tail latency: 96079.49999999999. 
+production-topology1-1-1478816074,0.7926478059108159,0.7923568171299525,94275.19499999999,1160,640,1478816488758
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 98656.42750000002. 
+Topology: production-topology1-1-1478816074 average latency: 98656.42750000002 tail latency: 99717.1. 
+production-topology1-1-1478816074,0.9503296703296702,0.8003734584715066,98656.42750000002,900,440,1478816499171
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 89968.5. 
+Topology: production-topology1-1-1478816074 average latency: 89968.5 tail latency: 90356.05. 
+production-topology1-1-1478816074,0.7233231277160111,0.7932019916090707,89968.5,1200,620,1478816509568
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 99882.04749999999. 
+Topology: production-topology1-1-1478816074 average latency: 99882.04749999999 tail latency: 101700.65. 
+production-topology1-1-1478816074,1.2782229380018484,0.813576062378256,99882.04749999999,940,480,1478816519983
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 106324.54750000002. 
+Topology: production-topology1-1-1478816074 average latency: 106324.54750000002 tail latency: 107000.3. 
+production-topology1-1-1478816074,0.6211266930743674,0.7986841137105195,106324.54750000002,1240,580,1478816530419
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 102890.87250000001. 
+Topology: production-topology1-1-1478816074 average latency: 102890.87250000001 tail latency: 103220.3. 
+production-topology1-1-1478816074,0.8009314823107925,0.799312049520218,102890.87250000001,880,480,1478816540806
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 101441.67750000002. 
+Topology: production-topology1-1-1478816074 average latency: 101441.67750000002 tail latency: 101888.7. 
+production-topology1-1-1478816074,0.9600026656137491,0.8002816146822046,101441.67750000002,940,480,1478816551218
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 103017.28. 
+Topology: production-topology1-1-1478816074 average latency: 103017.28 tail latency: 104032.75. 
+production-topology1-1-1478816074,0.8848207475209763,0.8090907021643344,103017.28,1140,560,1478816561649
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 109681.42749999999. 
+Topology: production-topology1-1-1478816074 average latency: 109681.42749999999 tail latency: 110842.9. 
+production-topology1-1-1478816074,0.5432474603121586,0.8028219996422978,109681.42749999999,980,460,1478816572039
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 117620.6025. 
+Topology: production-topology1-1-1478816074 average latency: 117620.6025 tail latency: 119331.1. 
+production-topology1-1-1478816074,0.7920855000506933,0.7973325717814477,117620.6025,1140,600,1478816582432
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 108764.69499999999. 
+Topology: production-topology1-1-1478816074 average latency: 108764.69499999999 tail latency: 109510.55. 
+production-topology1-1-1478816074,0.8088061465721039,0.8018155478407493,108764.69499999999,960,420,1478816592812
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 114559.24000000002. 
+Topology: production-topology1-1-1478816074 average latency: 114559.24000000002 tail latency: 115918.5. 
+production-topology1-1-1478816074,1.0845248513766312,0.8055121186548756,114559.24000000002,860,440,1478816603185
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 122951.57000000002. 
+Topology: production-topology1-1-1478816074 average latency: 122951.57000000002 tail latency: 124105.8. 
+production-topology1-1-1478816074,0.6749645141075297,0.8081467420145557,122951.57000000002,1260,620,1478816613597
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 128940.2275. 
+Topology: production-topology1-1-1478816074 average latency: 128940.2275 tail latency: 130838.4. 
+production-topology1-1-1478816074,0.788050463649954,0.8004019244273747,128940.2275,940,440,1478816623986
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 122636.66750000001. 
+Topology: production-topology1-1-1478816074 average latency: 122636.66750000001 tail latency: 123021.7. 
+production-topology1-1-1478816074,0.7480551016702977,0.8083932448929251,122636.66750000001,1200,640,1478816634344
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 110192.01749999999. 
+Topology: production-topology1-1-1478816074 average latency: 110192.01749999999 tail latency: 112113.8. 
+production-topology1-1-1478816074,0.729728266101858,0.7951248153229054,110192.01749999999,900,420,1478816644720
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 118328.595. 
+Topology: production-topology1-1-1478816074 average latency: 118328.595 tail latency: 120304.75. 
+production-topology1-1-1478816074,0.7616561498397435,0.7962935237573621,118328.595,960,460,1478816655123
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 133321.16999999998. 
+Topology: production-topology1-1-1478816074 average latency: 133321.16999999998 tail latency: 135209.0. 
+production-topology1-1-1478816074,0.6484851971161222,0.7990116976880702,133321.16999999998,1200,560,1478816665491
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 141336.47750000004. 
+Topology: production-topology1-1-1478816074 average latency: 141336.47750000004 tail latency: 142334.84999999998. 
+production-topology1-1-1478816074,1.1296000070701355,0.8035284065543052,141336.47750000004,800,460,1478816675948
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 151457.66250000003. 
+Topology: production-topology1-1-1478816074 average latency: 151457.66250000003 tail latency: 152477.5. 
+production-topology1-1-1478816074,0.6726277533509577,0.7988802620437429,151457.66250000003,1380,600,1478816686317
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 142424.13999999998. 
+Topology: production-topology1-1-1478816074 average latency: 142424.13999999998 tail latency: 143652.95. 
+production-topology1-1-1478816074,0.7118740040418284,0.7993531282286086,142424.13999999998,820,460,1478816696712
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 135531.91749999998. 
+Topology: production-topology1-1-1478816074 average latency: 135531.91749999998 tail latency: 136975.15000000005. 
+production-topology1-1-1478816074,0.8314155449413808,0.7991442978698211,135531.91749999998,940,460,1478816707111
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 143917.95500000002. 
+Topology: production-topology1-1-1478816074 average latency: 143917.95500000002 tail latency: 146359.25. 
+production-topology1-1-1478816074,0.8218203134835704,0.797692316864983,143917.95500000002,1220,580,1478816717478
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 152105.14250000002. 
+Topology: production-topology1-1-1478816074 average latency: 152105.14250000002 tail latency: 153239.8. 
+production-topology1-1-1478816074,0.8989927079471016,0.8017428869997738,152105.14250000002,900,460,1478816727861
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 153462.96. 
+Topology: production-topology1-1-1478816074 average latency: 153462.96 tail latency: 155251.15. 
+production-topology1-1-1478816074,0.6723925091272029,0.8011843160559365,153462.96,1240,640,1478816738227
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 150283.04249999992. 
+Topology: production-topology1-1-1478816074 average latency: 150283.04249999992 tail latency: 150567.55. 
+production-topology1-1-1478816074,0.8529135338345866,0.8014076103301855,150283.04249999992,900,440,1478816748608
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 145381.79. 
+Topology: production-topology1-1-1478816074 average latency: 145381.79 tail latency: 145839.75. 
+production-topology1-1-1478816074,0.8879892037786773,0.8107344512799356,145381.79,920,460,1478816759040
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 144086.22. 
+Topology: production-topology1-1-1478816074 average latency: 144086.22 tail latency: 146421.75. 
+production-topology1-1-1478816074,0.7753902203273562,0.8071753865521086,144086.22,1160,600,1478816769422
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 158471.51499999998. 
+Topology: production-topology1-1-1478816074 average latency: 158471.51499999998 tail latency: 162015.7. 
+production-topology1-1-1478816074,0.637459007095124,0.8057251564855825,158471.51499999998,920,360,1478816779787
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 168693.11500000002. 
+Topology: production-topology1-1-1478816074 average latency: 168693.11500000002 tail latency: 170055.25. 
+production-topology1-1-1478816074,0.7121609494861776,0.8065214845253142,168693.11500000002,1320,660,1478816790146
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 169747.42250000002. 
+Topology: production-topology1-1-1478816074 average latency: 169747.42250000002 tail latency: 170687.8. 
+production-topology1-1-1478816074,0.6832048143023753,0.8028733848050328,169747.42250000002,880,440,1478816800505
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 154858.21500000003. 
+Topology: production-topology1-1-1478816074 average latency: 154858.21500000003 tail latency: 156109.55. 
+production-topology1-1-1478816074,1.0596221813410198,0.806516468505411,154858.21500000003,900,480,1478816810866
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 155834.14500000002. 
+Topology: production-topology1-1-1478816074 average latency: 155834.14500000002 tail latency: 158565.45. 
+production-topology1-1-1478816074,0.8655154071480676,0.8112562111531462,155834.14500000002,1180,600,1478816821300
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 163692.34749999997. 
+Topology: production-topology1-1-1478816074 average latency: 163692.34749999997 tail latency: 167845.0. 
+production-topology1-1-1478816074,0.5704813317031882,0.7876648242765242,163692.34749999997,1000,420,1478816831668
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 169578.48249999998. 
+Topology: production-topology1-1-1478816074 average latency: 169578.48249999998 tail latency: 171588.75000000006. 
+production-topology1-1-1478816074,1.2067933741465473,0.8071870469789302,169578.48249999998,1100,620,1478816842049
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 184070.195. 
+Topology: production-topology1-1-1478816074 average latency: 184070.195 tail latency: 186088.95. 
+production-topology1-1-1478816074,0.674598585965376,0.802975950434083,184070.195,920,440,1478816852423
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 198385.0075. 
+Topology: production-topology1-1-1478816074 average latency: 198385.0075 tail latency: 199560.6. 
+production-topology1-1-1478816074,0.5783813747228381,0.7902552407377192,198385.0075,980,420,1478816862785
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 181802.7475. 
+Topology: production-topology1-1-1478816074 average latency: 181802.7475 tail latency: 182044.55. 
+production-topology1-1-1478816074,0.7711823653656219,0.7864672946658741,181802.7475,1180,620,1478816873157
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 180436.0975. 
+Topology: production-topology1-1-1478816074 average latency: 180436.0975 tail latency: 180488.75000000003. 
+production-topology1-1-1478816074,0.68832455378568,0.7913031977816581,180436.0975,940,440,1478816883537
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 163365.5725. 
+Topology: production-topology1-1-1478816074 average latency: 163365.5725 tail latency: 170265.75. 
+production-topology1-1-1478816074,0.852801731038691,0.7933270721479249,163365.5725,1180,600,1478816893923
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 178766.3775. 
+Topology: production-topology1-1-1478816074 average latency: 178766.3775 tail latency: 181044.3. 
+production-topology1-1-1478816074,0.9577833572453374,0.7982929791703659,178766.3775,880,440,1478816904284
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 176179.43. 
+Topology: production-topology1-1-1478816074 average latency: 176179.43 tail latency: 178731.45. 
+production-topology1-1-1478816074,0.8088235294117644,0.7891029351048703,176179.43,960,480,1478816914663
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 192498.125. 
+Topology: production-topology1-1-1478816074 average latency: 192498.125 tail latency: 193460.35. 
+production-topology1-1-1478816074,0.6207709750566893,0.7872964838031756,192498.125,1200,580,1478816925043
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 202717.37. 
+Topology: production-topology1-1-1478816074 average latency: 202717.37 tail latency: 204883.5. 
+production-topology1-1-1478816074,1.0189240824534944,0.7949922710966271,202717.37,900,420,1478816935423
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 218306.8875. 
+Topology: production-topology1-1-1478816074 average latency: 218306.8875 tail latency: 220824.4. 
+production-topology1-1-1478816074,0.6035422086919164,0.7901751746640144,218306.8875,1180,600,1478816945790
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 214558.5075. 
+Topology: production-topology1-1-1478816074 average latency: 214558.5075 tail latency: 215425.75. 
+production-topology1-1-1478816074,0.7065415451895043,0.789402283966936,214558.5075,960,440,1478816956158
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 196205.18500000006. 
+Topology: production-topology1-1-1478816074 average latency: 196205.18500000006 tail latency: 197062.3. 
+production-topology1-1-1478816074,0.8648827639008516,0.7928431711023063,196205.18500000006,900,440,1478816966581
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 198742.18250000005. 
+Topology: production-topology1-1-1478816074 average latency: 198742.18250000005 tail latency: 201131.45. 
+production-topology1-1-1478816074,0.7893216536120703,0.7975377196521711,198742.18250000005,1240,580,1478816976946
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 203748.5425. 
+Topology: production-topology1-1-1478816074 average latency: 203748.5425 tail latency: 206607.65. 
+production-topology1-1-1478816074,0.6684877622377623,0.7821673114910921,203748.5425,880,460,1478816987317
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 213139.30749999997. 
+Topology: production-topology1-1-1478816074 average latency: 213139.30749999997 tail latency: 215401.5. 
+production-topology1-1-1478816074,1.1349608419098438,0.797578414443055,213139.30749999997,1220,600,1478816997696
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 221804.14749999996. 
+Topology: production-topology1-1-1478816074 average latency: 221804.14749999996 tail latency: 224017.0. 
+production-topology1-1-1478816074,0.5365867138597726,0.7917355047703197,221804.14749999996,960,500,1478817008076
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 213801.01. 
+Topology: production-topology1-1-1478816074 average latency: 213801.01 tail latency: 214466.2. 
+production-topology1-1-1478816074,0.7054673721340388,0.7875372323434084,213801.01,900,400,1478817018442
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 214642.58. 
+Topology: production-topology1-1-1478816074 average latency: 214642.58 tail latency: 214774.5. 
+production-topology1-1-1478816074,0.7428088529465249,0.7849035169921734,214642.58,1200,640,1478817028815
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 209506.18249999997. 
+Topology: production-topology1-1-1478816074 average latency: 209506.18249999997 tail latency: 210638.75. 
+production-topology1-1-1478816074,0.8476658476658477,0.783192621649465,209506.18249999997,920,440,1478817039190
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 192751.8775. 
+Topology: production-topology1-1-1478816074 average latency: 192751.8775 tail latency: 194794.1. 
+production-topology1-1-1478816074,0.9555760368663593,0.7926320725741035,192751.8775,900,480,1478817049604
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 211023.41499999995. 
+Topology: production-topology1-1-1478816074 average latency: 211023.41499999995 tail latency: 213346.85. 
+production-topology1-1-1478816074,0.7317455632767806,0.7885931402221767,211023.41499999995,1220,580,1478817059953
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 217871.13000000003. 
+Topology: production-topology1-1-1478816074 average latency: 217871.13000000003 tail latency: 220436.45. 
+production-topology1-1-1478816074,0.9509393601190476,0.7906914787668556,217871.13000000003,960,440,1478817070326
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 221674.45249999996. 
+Topology: production-topology1-1-1478816074 average latency: 221674.45249999996 tail latency: 223419.75. 
+production-topology1-1-1478816074,0.5913512461216188,0.784556846293331,221674.45249999996,1200,600,1478817080676
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 238331.60499999998. 
+Topology: production-topology1-1-1478816074 average latency: 238331.60499999998 tail latency: 241680.35. 
+production-topology1-1-1478816074,0.7161663314480344,0.7871804237717613,238331.60499999998,940,420,1478817091044
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 251877.00749999992. 
+Topology: production-topology1-1-1478816074 average latency: 251877.00749999992 tail latency: 254389.3. 
+production-topology1-1-1478816074,0.6696375519904931,0.7857629771885718,251877.00749999992,940,420,1478817101410
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 256620.39250000002. 
+Topology: production-topology1-1-1478816074 average latency: 256620.39250000002 tail latency: 258534.25. 
+production-topology1-1-1478816074,0.9360024644969029,0.7941895655283894,256620.39250000002,1140,680,1478817111844
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 250694.63999999998. 
+Topology: production-topology1-1-1478816074 average latency: 250694.63999999998 tail latency: 254111.75. 
+production-topology1-1-1478816074,0.703686161964786,0.7823250315491815,250694.63999999998,960,460,1478817122300
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 219870.3775. 
+Topology: production-topology1-1-1478816074 average latency: 219870.3775 tail latency: 220808.0. 
+production-topology1-1-1478816074,1.052663012045163,0.7885632850457515,219870.3775,1120,600,1478817132674
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 218035.95750000002. 
+Topology: production-topology1-1-1478816074 average latency: 218035.95750000002 tail latency: 220253.55. 
+production-topology1-1-1478816074,0.732971193415638,0.7939796137694997,218035.95750000002,1000,440,1478817143053
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 226077.00500000003. 
+Topology: production-topology1-1-1478816074 average latency: 226077.00500000003 tail latency: 228963.25. 
+production-topology1-1-1478816074,0.7371095549330845,0.7783234864623841,226077.00500000003,900,440,1478817153398
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 247628.09249999997. 
+Topology: production-topology1-1-1478816074 average latency: 247628.09249999997 tail latency: 250089.1. 
+production-topology1-1-1478816074,0.8559653203944833,0.7843690442766877,247628.09249999997,1180,640,1478817163827
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 242102.50250000003. 
+Topology: production-topology1-1-1478816074 average latency: 242102.50250000003 tail latency: 243676.2. 
+production-topology1-1-1478816074,0.7580645161290324,0.7903584823235609,242102.50250000003,880,440,1478817174204
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 263103.735. 
+Topology: production-topology1-1-1478816074 average latency: 263103.735 tail latency: 265440.05. 
+production-topology1-1-1478816074,0.7130910076943454,0.7884221037345184,263103.735,1260,620,1478817184577
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 261775.89750000002. 
+Topology: production-topology1-1-1478816074 average latency: 261775.89750000002 tail latency: 262173.1. 
+production-topology1-1-1478816074,0.9707336523125997,0.7978357403520824,261775.89750000002,920,400,1478817194942
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 285984.1925. 
+Topology: production-topology1-1-1478816074 average latency: 285984.1925 tail latency: 287413.15. 
+production-topology1-1-1478816074,0.549469111969112,0.787724653049763,285984.1925,980,480,1478817205284
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 265901.86750000005. 
+Topology: production-topology1-1-1478816074 average latency: 265901.86750000005 tail latency: 266570.45. 
+production-topology1-1-1478816074,0.9826217910081912,0.7885526008418584,265901.86750000005,1140,600,1478817215661
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 258486.3625. 
+Topology: production-topology1-1-1478816074 average latency: 258486.3625 tail latency: 258789.3. 
+production-topology1-1-1478816074,0.0,0.7615918165281329,258486.3625,920,460,1478817226010
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 232259.48750000005. 
+Topology: production-topology1-1-1478816074 average latency: 232259.48750000005 tail latency: 233888.25. 
+production-topology1-1-1478816074,1.0144430844553243,0.7747142201747541,232259.48750000005,880,420,1478817236383
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 241628.75500000006. 
+Topology: production-topology1-1-1478816074 average latency: 241628.75500000006 tail latency: 243133.45. 
+production-topology1-1-1478816074,0.883445550351288,0.7701982691046805,241628.75500000006,1220,660,1478817246756
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 255449.31250000006. 
+Topology: production-topology1-1-1478816074 average latency: 255449.31250000006 tail latency: 257109.35. 
+production-topology1-1-1478816074,0.5815880169671261,0.7694664627138542,255449.31250000006,920,400,1478817257124
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 255018.39250000002. 
+Topology: production-topology1-1-1478816074 average latency: 255018.39250000002 tail latency: 258757.4. 
+production-topology1-1-1478816074,0.6502230700388845,0.7675891802088336,255018.39250000002,1340,600,1478817267494
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 269503.56249999994. 
+Topology: production-topology1-1-1478816074 average latency: 269503.56249999994 tail latency: 273237.65. 
+production-topology1-1-1478816074,0.976184917713157,0.7712992520025772,269503.56249999994,840,460,1478817277910
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 290611.15750000003. 
+Topology: production-topology1-1-1478816074 average latency: 290611.15750000003 tail latency: 293967.5. 
+production-topology1-1-1478816074,0.8452465204257648,0.7731634142297,290611.15750000003,840,420,1478817288301
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 284355.8425. 
+Topology: production-topology1-1-1478816074 average latency: 284355.8425 tail latency: 286405.75. 
+production-topology1-1-1478816074,1.0815573770491804,0.7869324013900807,284355.8425,1220,660,1478817298664
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 305073.6. 
+Topology: production-topology1-1-1478816074 average latency: 305073.6 tail latency: 308454.75. 
+production-topology1-1-1478816074,0.0,0.749100373326419,305073.6,900,440,1478817309034
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 282859.455. 
+Topology: production-topology1-1-1478816074 average latency: 282859.455 tail latency: 283669.4. 
+production-topology1-1-1478816074,0.8411495369861359,0.7592524674306312,282859.455,1300,640,1478817319385
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 264194.4. 
+Topology: production-topology1-1-1478816074 average latency: 264194.4 tail latency: 264799.25. 
+production-topology1-1-1478816074,0.8640242206772819,0.7645376957154061,264194.4,840,440,1478817329745
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 241318.71749999997. 
+Topology: production-topology1-1-1478816074 average latency: 241318.71749999997 tail latency: 243813.05. 
+production-topology1-1-1478816074,0.7850081242743038,0.7659443380929987,241318.71749999997,940,480,1478817340163
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 273875.4325. 
+Topology: production-topology1-1-1478816074 average latency: 273875.4325 tail latency: 274883.95. 
+production-topology1-1-1478816074,0.8324171655593506,0.7654360486894489,273875.4325,1180,620,1478817350519
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 269726.80500000005. 
+Topology: production-topology1-1-1478816074 average latency: 269726.80500000005 tail latency: 274145.7. 
+production-topology1-1-1478816074,1.0577935319537388,0.7688432985256949,269726.80500000005,860,440,1478817360858
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 293161.0775. 
+Topology: production-topology1-1-1478816074 average latency: 293161.0775 tail latency: 298089.65. 
+production-topology1-1-1478816074,0.5558135576850595,0.7629788983393043,293161.0775,1320,620,1478817371230
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 301680.855. 
+Topology: production-topology1-1-1478816074 average latency: 301680.855 tail latency: 305142.85. 
+production-topology1-1-1478816074,1.0590171428571427,0.7665814910972408,301680.855,860,420,1478817381598
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 318265.69499999995. 
+Topology: production-topology1-1-1478816074 average latency: 318265.69499999995 tail latency: 319529.9. 
+production-topology1-1-1478816074,0.5530898944165727,0.7653061127070726,318265.69499999995,960,460,1478817392001
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 308321.4675000001. 
+Topology: production-topology1-1-1478816074 average latency: 308321.4675000001 tail latency: 312039.15. 
+production-topology1-1-1478816074,0.0,0.7414339016588047,308321.4675000001,1200,620,1478817402357
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 335922.53. 
+Topology: production-topology1-1-1478816074 average latency: 335922.53 tail latency: 337249.64999999997. 
+production-topology1-1-1478816074,0.0,0.7191126499257882,335922.53,880,420,1478817412724
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 309650.2875. 
+Topology: production-topology1-1-1478816074 average latency: 309650.2875 tail latency: 310488.0. 
+production-topology1-1-1478816074,0.0,0.6879125677758914,309650.2875,1260,640,1478817423114
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 305322.925. 
+Topology: production-topology1-1-1478816074 average latency: 305322.925 tail latency: 305552.0. 
+production-topology1-1-1478816074,0.0,0.6644563623770653,305322.925,900,380,1478817433493
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 307232.7025. 
+Topology: production-topology1-1-1478816074 average latency: 307232.7025 tail latency: 307500.85. 
+production-topology1-1-1478816074,0.7882742539517628,0.655643403773952,307232.7025,940,460,1478817443843
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 276380.8825. 
+Topology: production-topology1-1-1478816074 average latency: 276380.8825 tail latency: 297840.30000000005. 
+production-topology1-1-1478816074,0.6649141203703703,0.6533748346724431,276380.8825,1180,620,1478817455275
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 281979.71499999997. 
+Topology: production-topology1-1-1478816074 average latency: 281979.71499999997 tail latency: 287771.05. 
+production-topology1-1-1478816074,0.8751977469881612,0.6579777744076122,281979.71499999997,1220,560,1478817465666
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 309203.7724999999. 
+Topology: production-topology1-1-1478816074 average latency: 309203.7724999999 tail latency: 310278.65. 
+production-topology1-1-1478816074,0.9599489722670013,0.6614438961366961,309203.7724999999,940,480,1478817476028
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 292255.9175. 
+Topology: production-topology1-1-1478816074 average latency: 292255.9175 tail latency: 294467.9. 
+production-topology1-1-1478816074,0.0,0.636175078932395,292255.9175,860,440,1478817486378
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 319819.345. 
+Topology: production-topology1-1-1478816074 average latency: 319819.345 tail latency: 319934.5. 
+production-topology1-1-1478816074,0.0,0.6124053786759168,319819.345,1200,620,1478817496720
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 318577.84. 
+Topology: production-topology1-1-1478816074 average latency: 318577.84 tail latency: 321693.5. 
+production-topology1-1-1478816074,0.0,0.5800475902654969,318577.84,980,400,1478817507074
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 354971.43499999994. 
+Topology: production-topology1-1-1478816074 average latency: 354971.43499999994 tail latency: 356016.15. 
+production-topology1-1-1478816074,0.0,0.5617319531998599,354971.43499999994,900,440,1478817517575
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 331824.18749999994. 
+Topology: production-topology1-1-1478816074 average latency: 331824.18749999994 tail latency: 332715.55. 
+production-topology1-1-1478816074,0.0,0.5289778934995869,331824.18749999994,1220,600,1478817527920
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 364336.35500000004. 
+Topology: production-topology1-1-1478816074 average latency: 364336.35500000004 tail latency: 365116.6. 
+production-topology1-1-1478816074,0.0,0.5289778934995869,364336.35500000004,900,460,1478817538302
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 342831.2075. 
+Topology: production-topology1-1-1478816074 average latency: 342831.2075 tail latency: 343280.4. 
+production-topology1-1-1478816074,0.9435532687651332,0.5266148996432471,342831.2075,1160,600,1478817548760
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 330059.015. 
+Topology: production-topology1-1-1478816074 average latency: 330059.015 tail latency: 330515.35000000003. 
+production-topology1-1-1478816074,0.8707147287153276,0.5261905389220485,330059.015,960,420,1478817559102
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 310859.80000000005. 
+Topology: production-topology1-1-1478816074 average latency: 310859.80000000005 tail latency: 311807.85. 
+production-topology1-1-1478816074,0.5017142974460047,0.5235280816046778,310859.80000000005,960,400,1478817569486
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 330418.4225. 
+Topology: production-topology1-1-1478816074 average latency: 330418.4225 tail latency: 332950.55. 
+production-topology1-1-1478816074,0.02339233271436661,0.5026337236938606,330418.4225,1180,580,1478817579837
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 324692.8524999999. 
+Topology: production-topology1-1-1478816074 average latency: 324692.8524999999 tail latency: 325914.0. 
+production-topology1-1-1478816074,0.0,0.47009422643675536,324692.8524999999,840,440,1478817590187
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 331709.10250000004. 
+Topology: production-topology1-1-1478816074 average latency: 331709.10250000004 tail latency: 336451.4. 
+production-topology1-1-1478816074,0.0,0.44191934242256325,331709.10250000004,1280,580,1478817600535
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 357712.75000000006. 
+Topology: production-topology1-1-1478816074 average latency: 357712.75000000006 tail latency: 358811.5. 
+production-topology1-1-1478816074,0.0,0.4058674298542572,357712.75000000006,880,500,1478817610904
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 372633.0274999999. 
+Topology: production-topology1-1-1478816074 average latency: 372633.0274999999 tail latency: 375593.6. 
+production-topology1-1-1478816074,0.0,0.4058674298542572,372633.0274999999,940,420,1478817621243
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 368802.88250000007. 
+Topology: production-topology1-1-1478816074 average latency: 368802.88250000007 tail latency: 369284.9. 
+production-topology1-1-1478816074,0.0,0.37782911195471935,368802.88250000007,1280,620,1478817631662
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 364922.99. 
+Topology: production-topology1-1-1478816074 average latency: 364922.99 tail latency: 368983.55. 
+production-topology1-1-1478816074,0.0,0.3490283045988099,364922.99,900,460,1478817642009
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 402254.2925. 
+Topology: production-topology1-1-1478816074 average latency: 402254.2925 tail latency: 402989.24999999994. 
+production-topology1-1-1478816074,0.0,0.3228613671229998,402254.2925,1240,560,1478817652362
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 363324.83249999996. 
+Topology: production-topology1-1-1478816074 average latency: 363324.83249999996 tail latency: 363522.2. 
+production-topology1-1-1478816074,0.0,0.2951141282710214,363324.83249999996,840,420,1478817662691
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 363379.97250000003. 
+Topology: production-topology1-1-1478816074 average latency: 363379.97250000003 tail latency: 363769.35. 
+production-topology1-1-1478816074,0.0,0.2598543438725634,363379.97250000003,980,440,1478817673065
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 350353.17250000004. 
+Topology: production-topology1-1-1478816074 average latency: 350353.17250000004 tail latency: 351090.7. 
+production-topology1-1-1478816074,0.8018373326997703,0.2680551363730538,350353.17250000004,1220,580,1478817683437
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 326166.82249999995. 
+Topology: production-topology1-1-1478816074 average latency: 326166.82249999995 tail latency: 326944.55. 
+production-topology1-1-1478816074,0.0,0.23275456494448232,326166.82249999995,900,480,1478817693889
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 360711.26499999996. 
+Topology: production-topology1-1-1478816074 average latency: 360711.26499999996 tail latency: 361113.65. 
+production-topology1-1-1478816074,0.0,0.21431823513059658,360711.26499999996,1220,620,1478817704260
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 350718.165. 
+Topology: production-topology1-1-1478816074 average latency: 350718.165 tail latency: 354114.0. 
+production-topology1-1-1478816074,0.0,0.21431823513059658,350718.165,860,440,1478817714626
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 384611.31249999994. 
+Topology: production-topology1-1-1478816074 average latency: 384611.31249999994 tail latency: 387181.65. 
+production-topology1-1-1478816074,0.0,0.21431823513059658,384611.31249999994,860,420,1478817725004
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 370929.33. 
+Topology: production-topology1-1-1478816074 average latency: 370929.33 tail latency: 371798.65. 
+production-topology1-1-1478816074,0.0,0.21431823513059658,370929.33,1320,540,1478817735382
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 406181.88750000007. 
+Topology: production-topology1-1-1478816074 average latency: 406181.88750000007 tail latency: 406684.55. 
+production-topology1-1-1478816074,0.0,0.21431823513059658,406181.88750000007,900,480,1478817745744
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 391851.7400000001. 
+Topology: production-topology1-1-1478816074 average latency: 391851.7400000001 tail latency: 393912.9. 
+production-topology1-1-1478816074,0.0,0.18804242666553783,391851.7400000001,1220,540,1478817756118
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 421088.31999999995. 
+Topology: production-topology1-1-1478816074 average latency: 421088.31999999995 tail latency: 423869.65. 
+production-topology1-1-1478816074,0.0,0.1658786226531922,421088.31999999995,900,480,1478817766477
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 415763.4075. 
+Topology: production-topology1-1-1478816074 average latency: 415763.4075 tail latency: 416899.95. 
+production-topology1-1-1478816074,0.0,0.13670536442025347,415763.4075,940,460,1478817776856
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 375094.56. 
+Topology: production-topology1-1-1478816074 average latency: 375094.56 tail latency: 376489.4. 
+production-topology1-1-1478816074,0.8080155257199974,0.13164091620201998,375094.56,1180,580,1478817787192
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 352086.0299999999. 
+Topology: production-topology1-1-1478816074 average latency: 352086.0299999999 tail latency: 352438.7. 
+production-topology1-1-1478816074,0.0,0.13164091620201998,352086.0299999999,880,500,1478817797557
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 368712.32500000007. 
+Topology: production-topology1-1-1478816074 average latency: 368712.32500000007 tail latency: 372907.0. 
+production-topology1-1-1478816074,0.0,0.13164091620201998,368712.32500000007,1200,560,1478817807920
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 386697.63999999996. 
+Topology: production-topology1-1-1478816074 average latency: 386697.63999999996 tail latency: 389822.55. 
+production-topology1-1-1478816074,0.0,0.13164091620201998,386697.63999999996,900,480,1478817818262
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 407794.31500000006. 
+Topology: production-topology1-1-1478816074 average latency: 407794.31500000006 tail latency: 410684.15. 
+production-topology1-1-1478816074,0.0,0.13164091620201998,407794.31500000006,980,460,1478817828621
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 398782.4275. 
+Topology: production-topology1-1-1478816074 average latency: 398782.4275 tail latency: 399287.85. 
+production-topology1-1-1478816074,0.0,0.13164091620201998,398782.4275,1200,580,1478817839008
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 406617.985. 
+Topology: production-topology1-1-1478816074 average latency: 406617.985 tail latency: 411960.4. 
+production-topology1-1-1478816074,0.0,0.13164091620201998,406617.985,920,460,1478817849447
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 409327.24749999994. 
+Topology: production-topology1-1-1478816074 average latency: 409327.24749999994 tail latency: 409596.2. 
+production-topology1-1-1478816074,0.0,0.10018914057651557,409327.24749999994,1180,620,1478817859791
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 448727.3. 
+Topology: production-topology1-1-1478816074 average latency: 448727.3 tail latency: 452130.85. 
+production-topology1-1-1478816074,0.0,0.07116531628600463,448727.3,920,460,1478817870139
+In Observer * 
+In Run
+Let's get some latency data 
+Topology: production-topology1-1-1478816074 spout: spout_head sinks: sink latency: 438689.775. 
+Topology: production-topology1-1-1478816074 average latency: 438689.775 tail latency: 438985.3. 
+production-topology1-1-1478816074,0.0,0.05444150637113781,438689.775,980,480,1478817880432

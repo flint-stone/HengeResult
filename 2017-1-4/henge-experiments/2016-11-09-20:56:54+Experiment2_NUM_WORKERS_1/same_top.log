@@ -1,0 +1,3632 @@
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+Let's get some latency data 
+In Observer * 
+In Run
+In the function: getUserSpecifiedSLOFromConfig
+Topology name: production-topology1-1-1478742983
+Topology SLO: null
+In the function: getUserSpecifiedLatencySLOFromConfig
+Topology name: production-topology1-1-1478742983
+Topology Latency SLO: 30.0
+In the function:  getUserSLOSensitivityFromConfig
+Topology name: production-topology1-1-1478742983
+Topology Sensitivity: latency
+In the function:  getNumWorkersFromConfig
+Topology name: production-topology1-1-1478742983
+Topology workers: 5
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.0,0.0,0.0,0,0,1478742984010
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.0,0.0,0.0,0,0,1478742988590
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9573759573759573,0.3191253191253191,0.0,580,300,1478742999221
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6257000686341799,0.3957690065025343,0.0,1200,560,1478743009712
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0723831983790242,0.5310918448778323,0.0,880,440,1478743020163
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5801529995331282,0.5392687039870483,0.0,1200,580,1478743030608
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9628146453089245,0.5997752670330306,0.0,920,480,1478743041033
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8862770858669696,0.635587994387273,0.0,980,480,1478743051483
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8920839903853518,0.6640875494981706,0.0,1120,600,1478743061887
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5985029750412154,0.6575290920524751,0.0,880,440,1478743072245
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6389295130099147,0.6558382212304242,0.0,1300,540,1478743082598
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9754567307692309,0.6824730970253247,0.0,800,420,1478743092989
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9798620485831581,0.7053491702220811,0.0,1180,640,1478743103352
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9101527193392552,0.719977995159022,0.0,920,460,1478743113705
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.41764915225784793,0.6998227389656104,0.0,980,420,1478743124119
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9799285943504893,0.7173293549271654,0.0,1180,480,1478743134492
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.61913924956396,0.7115534663763886,0.0,900,460,1478743144840
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6761584941775078,0.7095870790320062,0.0,1180,560,1478743155208
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8959166495761556,0.71939389853433,0.0,920,500,1478743165549
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6646219741457837,0.7166553023149026,0.0,1200,500,1478743175865
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7499360166527325,0.7182400982357516,0.0,900,460,1478743186135
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0294543922169472,0.7323862025076242,0.0,820,460,1478743196422
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.83278643546971,0.7367514300277149,0.0,1280,660,1478743206727
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.45291619155255525,0.7249249617579165,0.0,840,340,1478743217045
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7568649885583524,0.726202562829934,0.0,1280,580,1478743227357
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6767377789800915,0.7243000711434016,0.0,860,440,1478743237659
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.912312834224599,0.7312635068130755,0.0,860,460,1478743247977
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6529796166787138,0.7284676535939912,0.0,1240,580,1478743258270
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7309927591463417,0.7285547261992447,0.0,820,300,1478743268646
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7136658596712322,0.7280584306483109,0.0,1280,620,1478743284662
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.79618093858444,0.7545977952677921,0.0,1500,820,1478743294971
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.717649373881932,0.7785194410638566,0.0,860,340,1478743305263
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7936730123180292,0.7730626762285925,0.0,1140,560,1478743315559
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9518397470630997,0.7839339988428898,0.0,1020,520,1478743325855
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5907425713403526,0.767879311274934,0.0,1180,520,1478743336202
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6289970222262142,0.7695074453647037,0.0,920,440,1478743346498
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3182766439909297,0.7813561786541039,0.0,840,500,1478743356818
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6337916446324696,0.7729399972796204,0.0,1220,540,1478743367121
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.43270905339870847,0.7576274993800657,0.0,880,340,1478743377426
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1998601902965407,0.7776727398885765,0.0,1160,640,1478743387722
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6048043008305837,0.7765352328159323,0.0,940,300,1478743398040
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8999899301825994,0.7740196727963777,0.0,840,600,1478743408348
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6340143316242388,0.7624914155644138,0.0,1340,580,1478743418629
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6849168008588299,0.7549835516150663,0.0,880,320,1478743428928
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9819464548709,0.7737934617021679,0.0,1220,600,1478743439292
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.4383631031724874,0.7557412786629012,0.0,840,320,1478743449605
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7230932408374935,0.7592064117053522,0.0,900,520,1478743459901
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9255375801090769,0.7675190479030713,0.0,1260,620,1478743470203
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8369408369408369,0.765553187481894,0.0,900,400,1478743480499
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9023668881576896,0.7734780179489575,0.0,1140,620,1478743490792
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5958529332097252,0.7683419151675239,0.0,940,480,1478743501087
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.430763120567376,0.7483855394458715,0.0,940,340,1478743511366
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9538319223179911,0.752420389007481,0.0,1160,560,1478743521627
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.627408392434988,0.7915701290368953,0.0,940,380,1478743531921
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0206253082039378,0.8003621396917481,0.0,1160,720,1478743542243
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9519586104951958,0.8095361674089183,0.0,820,500,1478743552541
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5781463748290014,0.7983972854290652,0.0,980,460,1478743562799
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9806851311953352,0.809320802579619,0.0,1120,460,1478743573084
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6607989344731413,0.8069810084238458,0.0,940,480,1478743583360
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5123297754876701,0.8002698056177272,0.0,1140,500,1478743593675
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6194979734053899,0.7943803734450922,0.0,980,440,1478743603896
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7446808510638296,0.7952814226844888,0.0,940,380,1478743614140
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9139321879329908,0.7992900618716542,0.0,1120,680,1478743624438
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7885823753347126,0.793848149480708,0.0,940,500,1478743634721
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,2.0383141762452106,0.8421005363108701,0.0,900,380,1478743645057
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6416381301947639,0.8425219065764883,0.0,1160,560,1478743655366
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8452444857500049,0.8267541679684575,0.0,980,560,1478743665643
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8062061692680871,0.8325013187896447,0.0,1180,480,1478743675916
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8187609515740196,0.8453697153954883,0.0,880,400,1478743686183
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8297778528274983,0.8330336374798535,0.0,940,500,1478743696445
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.62822040573722,0.8338141743100747,0.0,1160,480,1478743706812
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7584712371946414,0.8290968845438094,0.0,940,300,1478743717097
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8226446032024555,0.8353845602630833,0.0,1100,640,1478743727355
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5909211444711087,0.8322513717168261,0.0,1020,520,1478743737641
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8574954457307397,0.8281030047454873,0.0,780,380,1478743747921
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7078869047619047,0.8370871314651346,0.0,1260,600,1478743758213
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0625108225108224,0.8484010508542457,0.0,880,560,1478743768499
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6662640207075063,0.8397585988741931,0.0,1220,440,1478743778811
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.87006603081438,0.8408627720033114,0.0,940,540,1478743789102
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.34622451130990034,0.8223246927750516,0.0,840,380,1478743799384
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6872727272727273,0.8253720192438185,0.0,1280,640,1478743809745
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8678571428571429,0.8399418199868107,0.0,840,360,1478743820031
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0444248450740767,0.84296158407868,0.0,1220,600,1478743830339
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7141161109842108,0.8125185080303209,0.0,900,400,1478743840598
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6289146958518156,0.7994614876185834,0.0,900,360,1478743850876
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0006405317991733,0.801084218328716,0.0,1200,820,1478743861269
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.330049261083744,0.8261476478705407,0.0,800,360,1478743871535
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7475441350231964,0.8183762813314694,0.0,1200,620,1478743881828
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7067413213885777,0.8199076942286506,0.0,1000,460,1478743892097
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.4407934281707072,0.8175231493180852,0.0,920,400,1478743902368
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,2.5969144318367254,0.8834370312657964,0.0,1240,480,1478743912732
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7504555478411689,0.8836295211583745,0.0,880,580,1478743923013
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5779002142638506,0.8724284553694032,0.0,1260,600,1478743933289
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.6932944606413995,0.9025855248796261,0.0,800,400,1478743943569
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.582141106442577,0.8540464225528716,0.0,960,420,1478743953822
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6843765441215351,0.8554710363504305,0.0,1220,580,1478743964058
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.862708719851577,0.8560531774871497,0.0,880,360,1478743974308
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8872867944434674,0.8587558649929957,0.0,1160,600,1478743984590
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8353518821603928,0.8593088960125415,0.0,980,560,1478743994858
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8775659824046921,0.8609018336651144,0.0,840,340,1478744005127
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9175627386979195,0.8705465780971379,0.0,1180,620,1478744015392
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.1234285714285714,0.849378489238269,0.0,1000,360,1478744025652
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.979277867428004,0.8545995980457872,0.0,960,480,1478744036032
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9267474489795917,0.8657938081960699,0.0,1120,500,1478744046299
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7146090709869586,0.8610309290379438,0.0,860,460,1478744056568
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8928480817881743,0.8671963016054863,0.0,1240,700,1478744066819
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0518682507033585,0.866841549211904,0.0,900,460,1478744077106
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.754398336038961,0.8697793597229525,0.0,1200,620,1478744087454
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6991767757317995,0.8640830512202,0.0,880,360,1478744097734
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8863149943346343,0.8820860673210245,0.0,940,360,1478744108027
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7530824787165091,0.8842797257024839,0.0,1140,660,1478744118312
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1804696789536266,0.8947001435723666,0.0,880,520,1478744128583
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0671506352087115,0.8954576699101876,0.0,1020,420,1478744138898
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7939135039139035,0.8981175830078441,0.0,1140,600,1478744149141
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1782792308665986,0.9164297341750033,0.0,860,560,1478744159415
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.24903583512469338,0.8913762442858542,0.0,1180,400,1478744169684
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0836911707841033,0.8831643079425328,0.0,1000,480,1478744179951
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7745711905607299,0.8840652097937839,0.0,820,500,1478744190305
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6732348111658455,0.8829483261196928,0.0,1200,500,1478744200559
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.064541434888033,0.9037399263436037,0.0,900,500,1478744210825
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6453293028635496,0.8386870887111646,0.0,1240,700,1478744221111
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7038123167155425,0.8371323143403103,0.0,900,320,1478744231327
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7083003952569168,0.8414789870400792,0.0,920,360,1478744241747
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7711235535647628,0.8107399568041914,0.0,1300,580,1478744251994
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0603550295857989,0.8266804209089655,0.0,780,480,1478744262255
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.21417403633256077,0.8110070039826665,0.0,1180,420,1478744272534
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9985536482320256,0.8155351682620146,0.0,1000,500,1478744282813
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2672542322320828,0.8282007495216352,0.0,880,520,1478744293138
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6574914347352551,0.8222720679407973,0.0,1180,440,1478744303482
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9791691333475298,0.8256588396388918,0.0,920,600,1478744313749
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7258180314936441,0.8192673493987495,0.0,1240,600,1478744323973
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2546967257112185,0.8569762878748377,0.0,900,340,1478744334247
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.25517743520584196,0.8328396068007656,0.0,880,360,1478744344584
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7849235504857413,0.8281121435176372,0.0,1180,600,1478744354911
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9604607442332367,0.8363071992925131,0.0,900,420,1478744365141
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7706801470588237,0.8322349348015348,0.0,1200,500,1478744375412
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7951380771980833,0.8236772623513587,0.0,860,440,1478744385667
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1476203453583855,0.8367846626620064,0.0,920,620,1478744395929
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.45900159832451504,0.8287788234150967,0.0,1200,500,1478744406207
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7187842690822909,0.8231944659066853,0.0,920,480,1478744416475
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7907551933156485,0.8244502230599899,0.0,1200,560,1478744426750
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.39669796927609424,0.7983244994040721,0.0,900,340,1478744437046
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8633341317017587,0.7915306159538403,0.0,900,520,1478744447374
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9277395833333333,0.7959914852678214,0.0,1200,680,1478744457650
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7301305615413868,0.7810531962903143,0.0,900,400,1478744467917
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7180382960289617,0.79668661165379,0.0,1200,580,1478744478174
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6718165555374859,0.7829574578122361,0.0,880,480,1478744488443
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,2.1392557022809124,0.8284469415362423,0.0,980,400,1478744498710
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.3167540653636316,0.8165642500095018,0.0,1160,460,1478744508985
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2223690270721015,0.8218251697489707,0.0,920,560,1478744519265
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8269989878542511,0.8278808259153274,0.0,1140,580,1478744529511
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3681649319947187,0.8500259130913,0.0,940,400,1478744539778
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7693101505041332,0.8520595715995405,0.0,860,400,1478744550032
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7329674983555446,0.8507877030925666,0.0,1180,620,1478744560303
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7469135802469136,0.8403396547812705,0.0,900,320,1478744570539
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5524515206739635,0.8516155709259838,0.0,1060,480,1478744580855
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6516171958513693,0.8400510225132951,0.0,1020,500,1478744591121
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1570232146070683,0.836376655259128,0.0,1060,520,1478744601386
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0017545535440473,0.8478520925527543,0.0,1160,540,1478744611631
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7678534075220683,0.840808235025239,0.0,880,460,1478744621903
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1209912762594063,0.8539806765174311,0.0,960,540,1478744632228
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5316018995923022,0.8298775156468008,0.0,1180,460,1478744642461
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8229487568995613,0.8488032263699246,0.0,820,480,1478744652744
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7533527696793001,0.8477508670097099,0.0,1260,620,1478744662995
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9895833333333334,0.8487216199797131,0.0,840,340,1478744673264
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7484502262975097,0.8479806226210026,0.0,920,500,1478744683645
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7834088188790211,0.8475896473437005,0.0,1180,640,1478744693913
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6693749999999999,0.8316481358317542,0.0,1000,340,1478744704166
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.635729675064855,0.8375390717230988,0.0,1120,500,1478744714424
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2914120353319536,0.856626663931421,0.0,940,600,1478744724710
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.36398467432950193,0.8424009799652161,0.0,900,380,1478744735087
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.814144298747066,0.8563158576142484,0.0,1220,640,1478744745349
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.554517349575489,0.8460219648767062,0.0,860,360,1478744755618
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7276869596151835,0.8393535440861012,0.0,1260,680,1478744765876
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7605888429752066,0.8403688201338951,0.0,880,360,1478744776145
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8394193739508243,0.8444148560646241,0.0,860,440,1478744786358
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2236584536759187,0.862809586002572,0.0,960,660,1478744796615
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8181818181818182,0.8187737898659354,0.0,0,360,1478744806890
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.8560833258507683,0.8700847652155067,0.0,0,580,1478744817169
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,0.8626724643131033,0.0,0,0,1478744821939
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,0.8684391647179616,0.0,0,0,1478744827468
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8596218020022247,0.8514877270515451,0.0,620,360,1478744837827
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1496345276743214,0.8641652062905513,0.0,1180,760,1478744848278
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6719457013574661,0.8621311463906155,0.0,860,540,1478744858547
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2535086767940637,0.8790176496088536,0.0,1240,820,1478744868844
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.5992730403402082,0.8805783669310618,0.0,920,340,1478744879131
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4245129870129867,0.9063415599697824,0.0,900,780,1478744889436
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9075172976158757,0.898024696070076,0.0,1200,800,1478744899800
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.117207792207792,0.9018731373588674,0.0,880,580,1478744910113
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.941816078658184,0.9076718930634047,0.0,1140,740,1478744920416
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0674882477282999,0.9058884587790345,0.0,940,580,1478744930704
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7992719629363314,0.9148107942238354,0.0,920,600,1478744940990
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0904051520339122,0.9237260073949805,0.0,1160,740,1478744951399
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.998819362455726,0.9319082271541946,0.0,960,640,1478744961683
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1438883342814776,0.9370517271857995,0.0,1260,760,1478744971954
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0311574032504267,0.9464752997508967,0.0,860,560,1478744982211
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8595202393964585,0.949012347101478,0.0,860,560,1478744992479
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9766553480475382,0.9592550253697293,0.0,1240,760,1478745002739
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0017670771788825,0.9714562721068635,0.0,940,600,1478745012976
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8803268077461626,0.9577534311873371,0.0,1240,760,1478745023264
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2068754615609558,0.985849790761719,0.0,820,620,1478745033565
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.98286957898069,0.9914739667695064,0.0,900,560,1478745043863
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.22095092804475,1.0136884193851485,0.0,1180,840,1478745054096
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6658963522160104,1.0116287324718425,0.0,940,520,1478745064373
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1713288716460024,1.025320066760869,0.0,1000,640,1478745074728
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1989035726981003,1.037302873385778,0.0,1080,820,1478745085014
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.06624975571624,1.0320559167871222,0.0,840,560,1478745095285
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7656434425735895,1.0303046376001812,0.0,1280,760,1478745105573
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1844781704781702,1.0079177990877612,0.0,900,540,1478745115848
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9242112482853224,1.0053915073639386,0.0,900,600,1478745126202
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0678871090770405,1.00765441099984,0.0,1160,800,1478745136478
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3146559957576103,1.022822217458353,0.0,900,580,1478745146749
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7833884776381271,1.01061401579048,0.0,1220,720,1478745157029
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4123376623376622,1.0352937478231532,0.0,880,580,1478745167315
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7634138820574145,1.018957254665265,0.0,940,600,1478745177648
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.245231634476874,1.0404892078031538,0.0,1180,780,1478745188009
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9664909818192134,1.025221807630028,0.0,880,600,1478745198300
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8416194446170353,1.0230252125300665,0.0,1240,760,1478745208596
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3376553894571208,1.030373465771711,0.0,900,540,1478745218899
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8013937282229964,1.0256927207572049,0.0,900,600,1478745229290
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0175457121236118,1.0240279695703818,0.0,1240,800,1478745239551
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2482602388938475,1.0389942454356325,0.0,900,560,1478745249837
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9755136348829633,1.0351645281972675,0.0,1180,740,1478745260116
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9767443124234116,1.0344286931961904,0.0,900,600,1478745270393
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7671938070844592,1.0218722089562895,0.0,1000,580,1478745280640
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3733537631259676,1.0332787542854744,0.0,1060,780,1478745290963
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.770005376373494,1.030294925518042,0.0,980,560,1478745301197
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2164138969506737,1.0382868771481466,0.0,1200,720,1478745311461
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2445914687227957,1.0463810235329438,0.0,900,560,1478745321704
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8163564353119478,1.0442486777851365,0.0,880,600,1478745331998
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.127531207217307,1.0416038693070149,0.0,1220,800,1478745342258
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8439461392497447,1.03697308798265,0.0,880,580,1478745352534
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.963938022761552,1.0284059911398769,0.0,1200,740,1478745362804
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0497778813468415,1.0412020421109045,0.0,900,580,1478745373081
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1810048314595785,1.0415245741046903,0.0,980,600,1478745383330
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9697736190830496,1.0338869089841887,0.0,1140,760,1478745393677
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9374620224029462,1.0295939845404123,0.0,900,640,1478745403951
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6002216406025119,1.0240799244747096,0.0,1220,600,1478745418080
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.5808021524597056,1.0372907238740943,0.0,1180,900,1478745428332
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9647638281735987,1.0386424765370368,0.0,1180,800,1478745438605
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0348518790250265,1.0375413022019697,0.0,940,560,1478745448866
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9951015384615384,1.026889486958767,0.0,1000,640,1478745459179
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9317688913214517,1.0318355007482112,0.0,1100,640,1478745469494
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.944360650243003,1.0162362670117226,0.0,900,600,1478745479799
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0796534830148274,1.0267775870436364,0.0,1200,720,1478745490120
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.239537225334952,1.0265877734055724,0.0,880,560,1478745500382
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0364357864357863,1.0289192668927913,0.0,1020,680,1478745510710
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9660503778150837,1.0330669646660597,0.0,1020,700,1478745520969
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9550511084561264,1.020313488632693,0.0,980,600,1478745531242
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.159992468185114,1.0322667799647636,0.0,1280,720,1478745541515
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.797016497016497,1.02491580612786,0.0,860,580,1478745551768
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.175751038126607,1.022498832768952,0.0,920,600,1478745562065
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0908281573498964,1.0263426501845163,0.0,1160,760,1478745572359
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7881941741371291,1.0200576455749735,0.0,940,580,1478745582641
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0195577395577393,1.028469776657416,0.0,1180,760,1478745592923
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1562710804098688,1.0212336872335464,0.0,880,600,1478745603209
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8935004158925365,1.0253501885508478,0.0,940,520,1478745613535
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1039830205535701,1.0216024926709444,0.0,1260,760,1478745623860
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9904511120854592,1.0131311474496998,0.0,920,620,1478745634102
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9462510393348258,1.0174609675837956,0.0,1120,760,1478745644366
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0219729800132615,1.0139423600103277,0.0,920,560,1478745654639
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0011756272401433,1.0191833429433408,0.0,900,580,1478745664958
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1180156543151971,1.024319263995129,0.0,1180,760,1478745675394
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0898303857190155,1.0256543474742015,0.0,900,580,1478745685630
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0208686930184379,1.0203164761928303,0.0,1120,760,1478745695889
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0244770010395012,1.0221399222580454,0.0,920,580,1478745706180
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3024087917704934,1.0343048145702969,0.0,960,640,1478745716463
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.961836798669527,1.0463586531725309,0.0,1180,700,1478745726768
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7112952836637046,1.0173750908793306,0.0,880,600,1478745737046
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9558793655476876,1.0170789421251338,0.0,1180,780,1478745747333
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2851183836683153,1.0254211589465767,0.0,860,560,1478745757617
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.066588750913075,1.0278040660282945,0.0,1000,580,1478745767927
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8453085376162299,1.0249220542381203,0.0,1120,700,1478745778246
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0952529313595876,1.0299517969420067,0.0,960,620,1478745788535
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1276250837648518,1.0315508503003408,0.0,1160,820,1478745798810
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6827158948685857,1.012990139284795,0.0,940,580,1478745809097
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.6818638833992094,1.0345044091835758,0.0,920,580,1478745819402
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.786654947743812,1.0285245615145335,0.0,1200,740,1478745829735
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.980736213912129,1.0293807316964003,0.0,880,620,1478745845520
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0038866323721767,1.0241772038359689,0.0,1660,1020,1478745855894
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2372031039136302,1.03885009073254,0.0,1040,680,1478745866133
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6625043648299462,1.021741868289318,0.0,900,560,1478745876385
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0579375859970856,1.020645515910891,0.0,1260,820,1478745886652
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9941401204845568,1.0275103807891386,0.0,860,540,1478745896924
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8156391588893622,1.020713094766859,0.0,980,600,1478745907297
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3895544487818006,1.0284892070459237,0.0,1160,720,1478745917584
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9893300824335309,1.031683529263957,0.0,900,560,1478745927869
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0208583208395805,1.0289127059401573,0.0,1120,780,1478745938263
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9753024193548387,1.028407749515803,0.0,920,560,1478745948518
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9857245242355237,1.0297235323458263,0.0,1060,660,1478745958862
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9017400644468312,1.025715768493612,0.0,1080,660,1478745969139
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3907245386192757,1.0387007322062496,0.0,880,600,1478745979406
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7604150390625,1.0267807116978265,0.0,1280,740,1478745989689
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0460190805277076,1.0253203348581164,0.0,860,580,1478745999969
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1533107227957056,1.0297350691840252,0.0,1040,600,1478746010279
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0184684684684686,1.029534784764991,0.0,1100,680,1478746020561
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7819644726641205,1.0121866407947784,0.0,820,600,1478746030841
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9842198581560283,1.012932742777662,0.0,1280,800,1478746041198
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2887524566621853,1.0321813152109447,0.0,880,580,1478746051450
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8662844474644855,1.0291948179415047,0.0,1180,720,1478746061757
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2618078847005199,1.0284178013092447,0.0,920,580,1478746072026
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9482838589981445,1.0244743049120806,0.0,900,620,1478746082272
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1211404929180186,1.0336687034221401,0.0,1160,800,1478746092527
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7665614375964767,1.022712320296703,0.0,880,480,1478746102793
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2183398671280692,1.0257361464088102,0.0,940,660,1478746113149
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9045141045637959,1.0331294200653172,0.0,1240,800,1478746123433
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.13605272975998,1.0149357149440097,0.0,860,600,1478746133703
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0889292196007256,1.0250115240059068,0.0,1240,780,1478746143975
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0531674208144794,1.0274258975693185,0.0,900,600,1478746154253
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9574136340950425,1.0258767976267473,0.0,840,520,1478746164597
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.270263377742602,1.0269788067543797,0.0,1200,800,1478746174832
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6072084942084941,1.0251356110669978,0.0,1000,580,1478746185126
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.286509557506716,1.0327546767839855,0.0,1200,780,1478746195413
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.85490022172949,1.0281133468254833,0.0,880,540,1478746205682
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4831381919553963,1.050363314594351,0.0,900,560,1478746215966
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8091009164906465,1.0310148635179792,0.0,1240,780,1478746226346
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9369284402867633,1.029268142113087,0.0,860,580,1478746236674
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.122329072639631,1.032650500506422,0.0,1180,780,1478746246924
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1649767971280973,1.0389729797655307,0.0,940,580,1478746257203
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.106686046511628,1.0430050305080674,0.0,860,600,1478746267519
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8371678938440192,1.040852624821307,0.0,1180,720,1478746277843
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8964920536635704,1.0243782086561168,0.0,1000,580,1478746288094
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0161498186920692,1.032902701310436,0.0,1100,740,1478746298362
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1711800763907194,1.0370747345058695,0.0,880,580,1478746308607
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0192672672672671,1.0326066193215881,0.0,940,540,1478746318875
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9609276437847866,1.0306885918321322,0.0,1200,760,1478746329168
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1845421245421244,1.0441078468947322,0.0,940,600,1478746339432
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8589211835829709,1.0399312244089638,0.0,1220,760,1478746349687
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8412223475744347,1.0250135541060386,0.0,860,600,1478746359951
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3042500000000001,1.0396124058572225,0.0,920,560,1478746370209
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0597322624627437,1.03287655178263,0.0,1180,740,1478746380471
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0071577114668473,1.0348390135315866,0.0,920,620,1478746390756
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0621466293880084,1.0328725514139196,0.0,1160,700,1478746401048
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9500933324775626,1.038990281243289,0.0,940,580,1478746411302
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8337642700041892,1.0261710946724933,0.0,880,540,1478746421560
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.97011882264777,1.0283579186086256,0.0,1260,800,1478746431831
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3585248592870547,1.035773656259528,0.0,900,580,1478746442079
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8880208333333334,1.0290767100506149,0.0,960,620,1478746452454
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9574345236992059,1.0258856134801058,0.0,1140,700,1478746462723
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7699283475145544,1.0196361039274229,0.0,880,520,1478746472970
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1777365471569965,1.0165518762412362,0.0,1180,840,1478746483233
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9743182351579595,1.0287888676062182,0.0,840,520,1478746493521
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9019607843137255,1.0159705751664518,0.0,1020,600,1478746503871
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.00609905113685,1.0210105361466975,0.0,1220,740,1478746514154
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1698176172719492,1.0105665169905824,0.0,820,600,1478746524415
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9505389311543158,1.0152811174793714,0.0,1280,760,1478746534705
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.105686021931563,1.020906370200865,0.0,900,560,1478746544988
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.323291050035236,1.0276051027807185,0.0,860,560,1478746555362
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8099970053215717,1.0157724430538342,0.0,1200,760,1478746565614
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2056741937773476,1.0190720479626916,0.0,840,600,1478746575892
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8957489878542508,1.021024751096366,0.0,1140,740,1478746586272
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8681313238679068,1.0200793934365104,0.0,1060,600,1478746596470
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.6943140892720727,1.0426848691225108,0.0,440,400,1478746606755
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,1.0369788665761535,0.0,0,0,1478746617008
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,1.036336624333911,0.0,0,0,1478746627286
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,1.0376390362077517,0.0,0,0,1478746629663
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,1.0314876320563475,0.0,0,0,1478746637551
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7432928159267118,1.0276333531344721,0.0,900,540,1478746647860
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4623842168724146,1.0483387487777382,0.0,1220,800,1478746658204
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.887079030030731,1.0344330497787624,0.0,880,560,1478746668482
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9262071550431681,1.0299822128647766,0.0,920,560,1478746678770
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2004663974179155,1.0364258357298122,0.0,1180,740,1478746689042
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8423562412342215,1.0290994894580192,0.0,920,560,1478746699315
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7434085610894795,1.0222099970784166,0.0,1220,740,1478746709601
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.5232786663052318,1.0451938102884513,0.0,880,660,1478746719888
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8833828522920205,1.042302611276593,0.0,960,600,1478746730178
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.086200011531774,1.0332251163514168,0.0,1140,720,1478746740456
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8994244869908021,1.0336052381399992,0.0,920,580,1478746750742
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8830163644405127,1.031124632831376,0.0,1120,720,1478746761060
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2182433494495672,1.0460684662292097,0.0,900,640,1478746771349
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.156655844155844,1.0453657761291713,0.0,880,580,1478746781637
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9322804843497877,1.043964517768899,0.0,1240,800,1478746791910
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1551023353489178,1.052402569470072,0.0,980,540,1478746802200
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8512747909988286,1.0472417607988045,0.0,900,560,1478746812546
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1311609431652847,1.0459532049952491,0.0,1140,840,1478746822809
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.008498023715415,1.0478851747472857,0.0,920,560,1478746833062
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8014916754972097,1.037745363199474,0.0,1260,800,1478746843322
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1436461575986077,1.031757200118253,0.0,860,520,1478746853628
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9299827901820246,1.035756726280268,0.0,800,600,1478746864167
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.060323848884176,1.0309117147838291,0.0,1340,780,1478746874451
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9877955758962623,1.0339799343852296,0.0,960,600,1478746884731
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.066064030131827,1.0405776912606934,0.0,1080,720,1478746895015
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8272859216255443,1.0116767523391426,0.0,1060,600,1478746905274
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3394180698528522,1.0229906880009045,0.0,800,620,1478746915627
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8110005379236149,1.0166907059316916,0.0,1200,720,1478746925906
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0242871944999605,1.0175002790816903,0.0,940,620,1478746936182
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2395604109186091,1.0254856261123106,0.0,1160,740,1478746946445
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.732121323519173,1.0251132430320593,0.0,880,580,1478746956712
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1370537538401007,1.0142688942643154,0.0,920,580,1478746967047
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9455726753976784,1.0162186824432138,0.0,1160,740,1478746977386
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0227214541730671,1.0194358257475435,0.0,980,580,1478746987636
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2627745667885752,1.0215127647265656,0.0,1160,800,1478746997878
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9882955971844865,1.026377409924908,0.0,900,580,1478747008166
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0414000867721376,1.0363104607809965,0.0,900,560,1478747018430
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0734866941529235,1.0213173950425862,0.0,1160,780,1478747028815
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0337580002858608,1.0263298999757142,0.0,900,580,1478747039185
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8904311829684963,1.0198042723569383,0.0,1260,740,1478747049472
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9026085238126605,1.0199104069176668,0.0,940,580,1478747059867
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9727989169849633,1.0229031586691486,0.0,860,620,1478747070207
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1829573934837094,1.0217269601369532,0.0,1220,760,1478747080488
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8258525905584727,1.0107001850170407,0.0,920,580,1478747090735
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.001579066095195,1.0130101377418876,0.0,1240,740,1478747101003
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2745077740232778,1.016990319031033,0.0,880,620,1478747111285
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.855757425050122,1.017139740166076,0.0,900,560,1478747121561
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8868892314990513,1.0089973497772016,0.0,1240,780,1478747131942
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1445569956208252,1.0135326488407153,0.0,840,600,1478747142223
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.992337238438544,1.0198941676054265,0.0,1280,820,1478747152501
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8548541367766618,1.0102677669113616,0.0,840,600,1478747162786
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9497503759398493,1.0109266864366224,0.0,1000,540,1478747173065
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.547707287576892,1.027172801059713,0.0,1140,780,1478747183477
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8839025735170503,1.023709700980406,0.0,820,580,1478747193742
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9155136243978127,1.0186913541226057,0.0,1220,800,1478747204012
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8257405554289092,1.018639841916051,0.0,1020,540,1478747214292
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9690874348189691,1.0062954874149217,0.0,840,580,1478747224573
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2054060161562958,1.0194423366893444,0.0,1100,800,1478747234898
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.208246758312389,1.0255743221497586,0.0,940,580,1478747245178
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8366890027591645,1.0121452752111106,0.0,1220,780,1478747255455
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0384813282935228,1.0223572753702554,0.0,900,580,1478747265727
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0518597568287007,1.0195174754698755,0.0,920,540,1478747275989
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2513237921586378,1.0297091793619075,0.0,1160,800,1478747286280
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6671128257902408,1.017855558415813,0.0,940,600,1478747296537
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0744544793723938,1.0115782221686072,0.0,1120,700,1478747306855
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2643524938945376,1.020780118725609,0.0,960,620,1478747317109
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8672169993114194,1.0149740158102518,0.0,940,580,1478747327378
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7827506089142807,1.0052828129689637,0.0,1200,760,1478747337678
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.131245584181668,1.0085323990988238,0.0,860,560,1478747347959
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1458144433439814,1.0170451744446731,0.0,920,640,1478747358204
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0170883099783694,1.0208611673168635,0.0,1240,740,1478747368566
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3093681841826323,1.0320801428901192,0.0,860,600,1478747378824
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8324810765349033,1.0203975989918255,0.0,1200,720,1478747389083
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8903206168831168,1.022546533202647,0.0,880,620,1478747399366
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1633428300094963,1.0279386586664572,0.0,900,560,1478747409641
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1322770828761608,1.02319763562822,0.0,1240,800,1478747419888
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0110760673063548,1.0283749237034279,0.0,900,580,1478747430230
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8297257187257188,1.02646947327765,0.0,1200,760,1478747440510
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1685033059507113,1.0272676836219796,0.0,920,540,1478747450778
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1106004901960782,1.0312097920138974,0.0,840,600,1478747461056
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9286274509803919,1.033668902487355,0.0,1220,740,1478747471338
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9700012442453655,1.0343439314308722,0.0,940,560,1478747481614
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.94910678456979,1.0143905813306355,0.0,1100,740,1478747491921
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8669594594594593,1.0138258108620493,0.0,940,560,1478747502181
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0020762828135006,1.0167112328092387,0.0,1000,600,1478747512454
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0542625085627106,1.024328631247032,0.0,1140,780,1478747522730
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0838963963963966,1.0281555966329465,0.0,900,540,1478747533001
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0639068710735926,1.023438958463523,0.0,880,620,1478747543347
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7916221653476847,1.009551472031366,0.0,1260,760,1478747553616
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.8095330860490872,1.0419796081410302,0.0,860,600,1478747563887
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8562448048405493,1.0359050573592643,0.0,1160,760,1478747574127
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.30974519985509,1.0445012387934773,0.0,840,600,1478747584394
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6500337033209005,1.0244582358322194,0.0,1020,580,1478747594687
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3641892817982457,1.047694117699153,0.0,1200,780,1478747605034
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6908043400286944,1.03490577972103,0.0,900,580,1478747615279
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1064719499133517,1.0296430949216568,0.0,1160,760,1478747625555
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0721953837895866,1.0364757077375957,0.0,920,560,1478747635914
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9218684746696214,1.0411129699294406,0.0,940,580,1478747646314
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9611726046350744,1.0354438706112208,0.0,1120,780,1478747656580
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3209204344408425,1.0412807369811161,0.0,980,600,1478747666847
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9124367766505012,1.0377923525368538,0.0,1220,720,1478747677130
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9962763512459253,1.0273559581056302,0.0,880,600,1478747687403
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9053693116193117,1.0297855659417772,0.0,940,560,1478747697755
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1599282622139764,1.038772487452806,0.0,1100,740,1478747708037
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8222472935662559,1.027402636238031,0.0,920,580,1478747718307
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0266426282051282,1.0238814877489968,0.0,1280,820,1478747728596
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0906360906360908,1.0265334885266546,0.0,920,560,1478747738894
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7047029215450268,1.022366061953965,0.0,1000,660,1478747749237
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4453278344216594,1.0315935462363297,0.0,1040,680,1478747759520
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7633175790391409,1.0200174491977654,0.0,840,580,1478747769790
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8689161824757526,1.018027073580944,0.0,1400,800,1478747780064
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3197747183979973,1.0296861893860316,0.0,800,560,1478747790341
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9894259624311774,1.0310301619814113,0.0,980,660,1478747800660
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.108866869918699,1.0390937423300526,0.0,1080,700,1478747810945
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8883373696973189,1.0353024452261796,0.0,940,580,1478747821252
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0654364524225575,1.035674910021508,0.0,1140,800,1478747831555
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8331729714218192,1.0273174625223553,0.0,980,580,1478747841829
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9215817629672245,1.022573292252143,0.0,1240,780,1478747852165
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.135003734859711,1.0340193445692105,0.0,860,580,1478747862425
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1625839793281652,1.01245437434518,0.0,860,560,1478747872698
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9914720542114693,1.0169619493242108,0.0,1240,780,1478747882962
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9699131164640803,1.005634213211177,0.0,960,540,1478747893247
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.065332917713069,1.0194775203575825,0.0,880,640,1478747903563
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0444766973068855,1.0088204342078704,0.0,1060,700,1478747913850
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9933259790402649,1.0189044888415895,0.0,980,580,1478747924138
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9192287485467627,1.0126630487960366,0.0,1200,760,1478747934421
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9663555300764605,1.0091350536722656,0.0,1000,560,1478747944701
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0221961124875483,1.0124793082661965,0.0,880,640,1478747955045
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1612428812816822,1.0191483174877505,0.0,1160,740,1478747965358
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0016664141796698,1.008506516812378,0.0,820,580,1478747975617
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7780479804971084,1.0040268902739315,0.0,1280,780,1478747985879
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1484332984892895,1.009098788515377,0.0,920,600,1478747996150
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9315163015352769,1.0099703548459094,0.0,880,560,1478748006438
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3016675226844716,1.0146949968615924,0.0,1200,820,1478748016858
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1540728456841087,1.025755848598854,0.0,860,520,1478748027098
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9779800104327201,1.0241337613397736,0.0,1180,800,1478748037353
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8790041958041961,1.0170793648453773,0.0,880,560,1478748047599
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0325911926232287,1.0280089738813174,0.0,980,640,1478748067660
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9200352088035367,1.0104992196940468,0.0,2120,1320,1478748077951
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.8651015799942454,1.0472253530592168,0.0,860,620,1478748088243
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8905268685812789,1.0479457092627344,0.0,1240,720,1478748098628
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9053191489361703,1.0341305236140068,0.0,900,640,1478748108916
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7546905621360048,1.0263060102708343,0.0,1200,740,1478748119190
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.497774952320407,1.0392696130175578,0.0,900,620,1478748129481
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1068093358456315,1.046552011889168,0.0,940,580,1478748139845
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9971145569791079,1.0442746153743865,0.0,1100,720,1478748150114
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6503678486997636,1.0381811112836512,0.0,1000,580,1478748160386
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1815853921348547,1.0468478989225722,0.0,1180,760,1478748170641
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1355532255468317,1.0468662152788097,0.0,920,600,1478748180905
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6920250459874755,1.0311809175007867,0.0,880,540,1478748191197
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1564869539063087,1.0366814141572813,0.0,1240,760,1478748201463
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8768982568002175,1.0335809188351524,0.0,900,620,1478748211722
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2058614045906026,1.0382652017310703,0.0,1180,740,1478748221997
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0174282912249568,1.0373635881950058,0.0,980,580,1478748232337
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0907876870260298,1.0406123117945314,0.0,820,580,1478748242632
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8999666666666665,1.0399702423985284,0.0,1220,760,1478748252981
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.530198175526895,1.0587649972468762,0.0,840,580,1478748263269
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6523409251605867,1.0464364910026442,0.0,1240,680,1478748273537
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2566064832484816,1.0496152777348708,0.0,940,600,1478748283824
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3160710553814001,1.0600954324415952,0.0,880,600,1478748294117
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6100804512094835,1.0544965147986745,0.0,1240,720,1478748304416
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.641590230004864,1.070935079182527,0.0,820,580,1478748314692
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.054807381480759,1.075044781847376,0.0,1160,840,1478748324974
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7566806722689076,1.0568785535001906,0.0,1020,540,1478748335248
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2683152688624646,1.0606866342728027,0.0,860,620,1478748345518
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7210662278897573,1.0521228415213704,0.0,1180,720,1478748355785
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.8718487394957986,1.085217659644424,0.0,900,600,1478748366064
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9375,1.0820479532236498,0.0,1200,760,1478748376379
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.017989417989418,1.0853130935298456,0.0,900,580,1478748386668
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.00480111690638,1.056636411426917,0.0,900,580,1478748396966
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9207817674219989,1.0576449080549408,0.0,1240,800,1478748407245
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,20.0,1.6941342697570685,0.0,60,60,1478748417513
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,1.7023112510192016,0.0,0,0,1478748427921
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,1.6857187526085216,0.0,0,0,1478748437137
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0,1.682158441413667,0.0,0,0,1478748438183
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3588235294117645,1.6942154071614224,0.0,300,200,1478748448441
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1947767114097758,1.712362369251756,0.0,880,580,1478748458711
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8018692975298567,1.6997051660982558,0.0,1220,760,1478748468999
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.168923406139315,1.7008175054513388,0.0,880,580,1478748479277
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9293539128270609,1.7087284676793248,0.0,920,600,1478748489566
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9788398366143738,1.702806897102927,0.0,1220,780,1478748499903
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0586001264257805,1.7088636260904457,0.0,920,600,1478748510188
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.105053741215378,1.7055033706446052,0.0,1180,780,1478748520476
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.040956937799043,1.7062876588637412,0.0,880,560,1478748530754
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8879263775273961,1.6995256152137868,0.0,960,560,1478748541033
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7537078921332238,1.6946503227293386,0.0,1140,740,1478748551381
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3260348583877997,1.687844878824702,0.0,880,620,1478748561661
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0574711477905407,1.7013492195790338,0.0,1320,740,1478748571945
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8551520270270272,1.687967404371652,0.0,800,580,1478748582209
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0832632464255676,1.680207144073124,0.0,940,560,1478748592485
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2023848238482384,1.6999506231610828,0.0,1200,860,1478748602745
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8713037988003789,1.6742744087876,0.0,860,500,1478748613023
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2136719002717213,1.6795698927472986,0.0,1160,720,1478748623425
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1996196327993562,1.6943345247649801,0.0,1020,600,1478748633701
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0974196696951206,1.6886380047927356,0.0,860,620,1478748643987
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8117133478694454,1.6916595754587251,0.0,1200,760,1478748654249
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1107747724974724,1.6662904432254477,0.0,860,580,1478748664532
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9476998157122379,1.6666304370825222,0.0,920,600,1478748674882
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.033809930185708,1.6671577874890653,0.0,1340,740,1478748685140
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9568106312292359,1.6655581046331605,0.0,860,640,1478748695417
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9781263616557734,1.6674695911076196,0.0,1200,780,1478748712818
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0648832756403876,1.036299033628966,0.0,1480,900,1478748723078
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0863798215617846,1.0391783610143588,0.0,1180,840,1478748733404
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7411006546644845,1.0305483828365083,0.0,940,560,1478748743761
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3980113636363636,1.0438154282910537,0.0,1160,760,1478748754045
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6435213675990037,1.019972022897295,0.0,960,600,1478748764317
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4560716501240698,1.0286818541877716,0.0,800,580,1478748774598
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.081867808531165,1.038015137887815,0.0,1200,800,1478748784875
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8726093857289191,1.0281380038741352,0.0,920,600,1478748795105
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.375552027709626,1.0430112743702207,0.0,1160,740,1478748805385
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7610518553351571,1.035751674994247,0.0,960,620,1478748815662
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0151826784282278,1.034304426727662,0.0,1000,540,1478748825881
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8658020858727987,1.0263293715495758,0.0,1140,740,1478748836137
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2402473559498353,1.0329723854879356,0.0,880,640,1478748846410
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9728181543496687,1.035802111382011,0.0,1060,600,1478748856690
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0948792372726572,1.0471744895533257,0.0,1020,700,1478748867035
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.6571271177256801,1.0248775648645883,0.0,920,560,1478748877296
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.327292594695038,1.0338716130947383,0.0,1180,780,1478748887593
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8746398299193332,1.0345212065244818,0.0,920,580,1478748897881
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1606373815676139,1.03710034436255,0.0,1000,660,1478748908258
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9412697373956452,1.0283965081474635,0.0,1120,720,1478748918533
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0374338624338624,1.0339341769352464,0.0,900,620,1478748928825
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9723545787545788,1.0258902662180083,0.0,1200,760,1478748939105
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1198138416887218,1.0232300731809871,0.0,900,560,1478748949465
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9056402240778136,1.0168374249937435,0.0,1040,680,1478748959866
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.169471358150603,1.0287626920031154,0.0,1020,720,1478748970140
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.013917701485269,1.0255341229693753,0.0,900,540,1478748980426
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8598582819013253,1.0226060718423449,0.0,1240,780,1478748990693
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9543224438860113,1.0199564889656885,0.0,940,580,1478749000967
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1416069130354842,1.0261163650258966,0.0,900,560,1478749011234
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8735616280410469,1.0226308739054057,0.0,1260,780,1478749021614
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2775350849424922,1.0297192675488092,0.0,780,560,1478749031897
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9122665642900855,1.0239154923064193,0.0,1260,800,1478749042170
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0594077220385196,1.0345257278855537,0.0,900,560,1478749052454
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9940844465821154,1.0210614973170788,0.0,920,600,1478749062743
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0600696837411234,1.0349464411884828,0.0,1180,740,1478749073148
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7171110289847422,1.0103144204838386,0.0,940,560,1478749083435
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2135987241343649,1.0147054510039453,0.0,1260,720,1478749093709
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0376516625947247,1.0202068602328054,0.0,780,560,1478749103969
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3215810436808233,1.0184078274318453,0.0,920,660,1478749114234
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8129430625207104,1.0201375343380303,0.0,1260,700,1478749124506
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.051299946253379,1.0213414432655354,0.0,900,600,1478749134852
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8941682945286241,1.022286983554063,0.0,1240,760,1478749145128
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0330184015279813,1.0153793517400012,0.0,820,580,1478749155401
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.11278210666559,1.0200448168171985,0.0,960,560,1478749165683
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9803848075962017,1.0162283358279833,0.0,1200,800,1478749175964
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0897838804815547,1.030650227919846,0.0,860,560,1478749186224
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4359929407530652,1.034273572788447,0.0,1040,680,1478749196568
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7917711230719212,1.0315112825601997,0.0,1100,660,1478749206836
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9430997117171332,1.0242600268985171,0.0,900,620,1478749217123
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2959467824771955,1.036082595067902,0.0,1160,740,1478749227415
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7603951227041208,1.026847970410244,0.0,940,540,1478749237707
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0968852977591432,1.030998994377063,0.0,980,620,1478749248080
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.017030655179323,1.0275728881600827,0.0,1120,760,1478749258346
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1023548493060689,1.034130042334358,0.0,880,580,1478749268630
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0942270591393397,1.0316218990339825,0.0,1260,800,1478749278906
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.011625050393066,1.031545477330909,0.0,880,540,1478749289182
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1590844831342821,1.0415196840386742,0.0,840,560,1478749299537
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0190020949571137,1.043675672407711,0.0,1240,800,1478749309794
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8825111218267795,1.0350391460340875,0.0,880,540,1478749320105
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0048595884634846,1.0394157447148353,0.0,1280,820,1478749330421
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0375223613595705,1.0314153205954049,0.0,860,540,1478749340704
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1475928694652098,1.039259530767909,0.0,900,580,1478749350971
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9634860549950334,1.0360621418664595,0.0,1220,800,1478749361338
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7695134990644213,1.0285764436158698,0.0,840,540,1478749371608
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2440893619994409,1.0347104328911467,0.0,1200,720,1478749381862
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9529742585536118,1.0425725405434425,0.0,980,620,1478749392129
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8651158140774863,1.0309564435415468,0.0,860,520,1478749402401
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3402784564266692,1.041044003335945,0.0,1220,760,1478749412688
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9041763862735731,1.0271305147557033,0.0,920,600,1478749422961
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9572822917987069,1.031941822398303,0.0,1200,780,1478749433232
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.100046503423614,1.0335667076373107,0.0,900,560,1478749443511
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9368912337662335,1.034990805611898,0.0,920,580,1478749453790
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.165876215029929,1.0394193993952963,0.0,1160,760,1478749464044
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8439527514117506,1.0304584208868348,0.0,960,600,1478749474313
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1184962895617832,1.0350621369523543,0.0,900,560,1478749484688
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8871622410879187,1.0283080823058997,0.0,1220,780,1478749494966
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.361833103966971,1.0258360877463633,0.0,920,540,1478749505249
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7603824746681889,1.0247897994662387,0.0,1160,740,1478749515565
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.094387144622254,1.0298327138964094,0.0,820,600,1478749525954
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1854900951890919,1.0261508243201394,0.0,1040,640,1478749536295
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8905648267008985,1.0304898144533652,0.0,1140,740,1478749546559
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.961982048581309,1.0259930394807706,0.0,940,580,1478749556834
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.231736536084362,1.0331499021776052,0.0,1200,720,1478749567118
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8599995659237761,1.025071392731529,0.0,900,600,1478749577393
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1735047583033968,1.027713982703664,0.0,860,580,1478749587731
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9363265306122447,1.0252040320443034,0.0,1280,740,1478749598029
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9640404163741263,1.0187025631522983,0.0,820,580,1478749608321
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7924536734986403,1.0111509491036825,0.0,1260,740,1478749618624
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4080090497737554,1.028667546701915,0.0,900,580,1478749628919
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9930360271067674,1.0282734279900247,0.0,880,540,1478749639298
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9929078014184395,1.026786275991987,0.0,1240,800,1478749649575
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4067562944568288,1.035425056825041,0.0,880,560,1478749659858
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8382403628117913,1.0312502004189328,0.0,1200,760,1478749670138
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0997612699740358,1.0422584594492534,0.0,880,640,1478749680429
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0639887626604894,1.036255106137955,0.0,880,520,1478749690727
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9344893816943506,1.0356389435759796,0.0,1320,780,1478749701200
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.227646972476731,1.047723315522621,0.0,820,600,1478749711457
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.01160177477165,1.0367674261341204,0.0,1240,700,1478749721729
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0118674665417493,1.0403571288097262,0.0,900,600,1478749732010
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8594471440592099,1.0370959572184095,0.0,820,580,1478749742251
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0689162164210704,1.0360582809849914,0.0,1260,780,1478749752529
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0296073216520651,1.0391488172478527,0.0,960,560,1478749762795
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8101588467049459,1.0272915716370197,0.0,1180,820,1478749773078
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.2911052631578948,1.042196655361891,0.0,900,520,1478749783326
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9543596622533309,1.0367254344516093,0.0,880,580,1478749793613
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.905505463803336,1.03733687520879,0.0,1320,760,1478749803902
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3584682897253666,1.0372247147340699,0.0,760,600,1478749814181
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9747130432889057,1.0443690670214272,0.0,1240,740,1478749824456
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0984640897066371,1.0445049651909064,0.0,860,560,1478749834734
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0593674960404638,1.0403008785526189,0.0,920,600,1478749845003
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9233942908117754,1.0413951940229813,0.0,1220,780,1478749855265
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7917480468750001,1.0357207272994378,0.0,840,540,1478749865543
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0363875238785325,1.0292090935592435,0.0,960,580,1478749875884
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0706358532445486,1.0362303031366027,0.0,1180,860,1478749886160
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1322383252818038,1.0348547553692165,0.0,920,560,1478749896445
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1230890421803439,1.0410801724214862,0.0,1160,780,1478749906764
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8073188150401601,1.0358561190436872,0.0,940,580,1478749917035
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.3062567853265523,1.0529828894379512,0.0,860,560,1478749927459
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8959315941397528,1.0359136409168177,0.0,1220,780,1478749937752
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.147995884324009,1.0410789694907256,0.0,960,580,1478749948033
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9552715887826634,1.0398244290695333,0.0,1120,760,1478749958293
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9172346357897999,1.0235070404472988,0.0,980,580,1478749968567
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0862406405219067,1.0317737163709695,0.0,960,680,1478749978919
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.82732585911843,1.022692536009116,0.0,1140,700,1478749989204
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0274030411062496,1.0214730119573079,0.0,920,600,1478749999479
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0448462476072484,1.0251515741544046,0.0,1260,820,1478750009759
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9537426408746847,1.0160214297676697,0.0,820,560,1478750020033
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1538858524693298,1.0207642323575923,0.0,900,580,1478750030391
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0203854643898373,1.021048165619195,0.0,1200,720,1478750040674
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.979397164271114,1.0250464996262587,0.0,840,600,1478750050940
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0401574215064482,1.0240878731291045,0.0,1320,760,1478750061214
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8752500571559213,1.018942630979233,0.0,900,540,1478750071488
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1638441134462352,1.0307321398706093,0.0,900,600,1478750081775
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.132327399044724,1.0254395444001703,0.0,1120,760,1478750092204
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7757165024119782,1.0194847724054585,0.0,980,600,1478750102473
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.4046799485787573,1.0361239218979725,0.0,1120,740,1478750112759
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.7800404741894104,1.0168429947134405,0.0,960,600,1478750123041
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9716434490995479,1.0167406749071286,0.0,980,520,1478750133295
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9797460615301853,1.012783407301247,0.0,1100,780,1478750143554
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.1804767126071551,1.0168203811868033,0.0,920,600,1478750153830
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0460179150419269,1.0209078353278085,0.0,1240,800,1478750164114
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.8487405767555284,1.022807586323826,0.0,900,600,1478750174387
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9563343328335834,1.0201391466223275,0.0,920,560,1478750184659
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,1.0148917286381223,1.018281009135447,0.0,1180,760,1478750194947
+In Observer * 
+In Run
+No latency data for topology: production-topology1-1-1478742983 
+Let's get some latency data 
+production-topology1-1-1478742983,0.9895915678524374,1.0135261172211347,0.0,900,580,1478750205210

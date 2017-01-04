@@ -1,0 +1,7 @@
+2016-11-09 15:34:40.306 b.s.u.Utils [INFO] Using defaults.yaml from resources
+2016-11-09 15:34:40.387 b.s.u.Utils [INFO] Using storm.yaml from resources
+2016-11-09 15:34:41.664 b.s.u.Utils [INFO] Using defaults.yaml from resources
+2016-11-09 15:34:41.689 b.s.u.Utils [INFO] Using storm.yaml from resources
+2016-11-09 15:34:41.866 o.a.s.s.o.e.j.s.Server [INFO] jetty-7.x.y-SNAPSHOT
+2016-11-09 15:34:41.904 o.a.s.s.o.e.j.s.h.ContextHandler [INFO] started o.a.s.s.o.e.j.s.ServletContextHandler{/,null}
+2016-11-09 15:34:41.922 o.a.s.s.o.e.j.s.AbstractConnector [INFO] Started SelectChannelConnector@0.0.0.0:8080
